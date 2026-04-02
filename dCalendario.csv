@@ -1,0 +1,731 @@
+﻿Data,Ano,Trimestre Numero,Trimestre,Mes Numero,Mes Nome,Mes Ano,Semana do Ano,Dia,Dia Semana Numero,Dia Semana Nome,Dia Semana Abrev,Final de Semana,AnoMes,AnoTrimestre,Mes Nome Abrev
+3-Jan-22,2022,1,T1,1,janeiro,jan/2022,2,3,2,segunda-feira,seg,Dia útil,202201,2022/T1,jan
+10-Jan-22,2022,1,T1,1,janeiro,jan/2022,3,10,2,segunda-feira,seg,Dia útil,202201,2022/T1,jan
+17-Jan-22,2022,1,T1,1,janeiro,jan/2022,4,17,2,segunda-feira,seg,Dia útil,202201,2022/T1,jan
+24-Jan-22,2022,1,T1,1,janeiro,jan/2022,5,24,2,segunda-feira,seg,Dia útil,202201,2022/T1,jan
+31-Jan-22,2022,1,T1,1,janeiro,jan/2022,6,31,2,segunda-feira,seg,Dia útil,202201,2022/T1,jan
+7-Feb-22,2022,1,T1,2,fevereiro,fev/2022,7,7,2,segunda-feira,seg,Dia útil,202202,2022/T1,fev
+14-Feb-22,2022,1,T1,2,fevereiro,fev/2022,8,14,2,segunda-feira,seg,Dia útil,202202,2022/T1,fev
+21-Feb-22,2022,1,T1,2,fevereiro,fev/2022,9,21,2,segunda-feira,seg,Dia útil,202202,2022/T1,fev
+28-Feb-22,2022,1,T1,2,fevereiro,fev/2022,10,28,2,segunda-feira,seg,Dia útil,202202,2022/T1,fev
+7-Mar-22,2022,1,T1,3,março,mar/2022,11,7,2,segunda-feira,seg,Dia útil,202203,2022/T1,mar
+14-Mar-22,2022,1,T1,3,março,mar/2022,12,14,2,segunda-feira,seg,Dia útil,202203,2022/T1,mar
+21-Mar-22,2022,1,T1,3,março,mar/2022,13,21,2,segunda-feira,seg,Dia útil,202203,2022/T1,mar
+28-Mar-22,2022,1,T1,3,março,mar/2022,14,28,2,segunda-feira,seg,Dia útil,202203,2022/T1,mar
+4-Apr-22,2022,2,T2,4,abril,abr/2022,15,4,2,segunda-feira,seg,Dia útil,202204,2022/T2,abr
+11-Apr-22,2022,2,T2,4,abril,abr/2022,16,11,2,segunda-feira,seg,Dia útil,202204,2022/T2,abr
+18-Apr-22,2022,2,T2,4,abril,abr/2022,17,18,2,segunda-feira,seg,Dia útil,202204,2022/T2,abr
+25-Apr-22,2022,2,T2,4,abril,abr/2022,18,25,2,segunda-feira,seg,Dia útil,202204,2022/T2,abr
+2-May-22,2022,2,T2,5,maio,mai/2022,19,2,2,segunda-feira,seg,Dia útil,202205,2022/T2,mai
+9-May-22,2022,2,T2,5,maio,mai/2022,20,9,2,segunda-feira,seg,Dia útil,202205,2022/T2,mai
+16-May-22,2022,2,T2,5,maio,mai/2022,21,16,2,segunda-feira,seg,Dia útil,202205,2022/T2,mai
+23-May-22,2022,2,T2,5,maio,mai/2022,22,23,2,segunda-feira,seg,Dia útil,202205,2022/T2,mai
+30-May-22,2022,2,T2,5,maio,mai/2022,23,30,2,segunda-feira,seg,Dia útil,202205,2022/T2,mai
+6-Jun-22,2022,2,T2,6,junho,jun/2022,24,6,2,segunda-feira,seg,Dia útil,202206,2022/T2,jun
+13-Jun-22,2022,2,T2,6,junho,jun/2022,25,13,2,segunda-feira,seg,Dia útil,202206,2022/T2,jun
+20-Jun-22,2022,2,T2,6,junho,jun/2022,26,20,2,segunda-feira,seg,Dia útil,202206,2022/T2,jun
+27-Jun-22,2022,2,T2,6,junho,jun/2022,27,27,2,segunda-feira,seg,Dia útil,202206,2022/T2,jun
+4-Jul-22,2022,3,T3,7,julho,jul/2022,28,4,2,segunda-feira,seg,Dia útil,202207,2022/T3,jul
+11-Jul-22,2022,3,T3,7,julho,jul/2022,29,11,2,segunda-feira,seg,Dia útil,202207,2022/T3,jul
+18-Jul-22,2022,3,T3,7,julho,jul/2022,30,18,2,segunda-feira,seg,Dia útil,202207,2022/T3,jul
+25-Jul-22,2022,3,T3,7,julho,jul/2022,31,25,2,segunda-feira,seg,Dia útil,202207,2022/T3,jul
+1-Aug-22,2022,3,T3,8,agosto,ago/2022,32,1,2,segunda-feira,seg,Dia útil,202208,2022/T3,ago
+8-Aug-22,2022,3,T3,8,agosto,ago/2022,33,8,2,segunda-feira,seg,Dia útil,202208,2022/T3,ago
+15-Aug-22,2022,3,T3,8,agosto,ago/2022,34,15,2,segunda-feira,seg,Dia útil,202208,2022/T3,ago
+22-Aug-22,2022,3,T3,8,agosto,ago/2022,35,22,2,segunda-feira,seg,Dia útil,202208,2022/T3,ago
+29-Aug-22,2022,3,T3,8,agosto,ago/2022,36,29,2,segunda-feira,seg,Dia útil,202208,2022/T3,ago
+5-Sep-22,2022,3,T3,9,setembro,set/2022,37,5,2,segunda-feira,seg,Dia útil,202209,2022/T3,set
+12-Sep-22,2022,3,T3,9,setembro,set/2022,38,12,2,segunda-feira,seg,Dia útil,202209,2022/T3,set
+19-Sep-22,2022,3,T3,9,setembro,set/2022,39,19,2,segunda-feira,seg,Dia útil,202209,2022/T3,set
+26-Sep-22,2022,3,T3,9,setembro,set/2022,40,26,2,segunda-feira,seg,Dia útil,202209,2022/T3,set
+3-Oct-22,2022,4,T4,10,outubro,out/2022,41,3,2,segunda-feira,seg,Dia útil,202210,2022/T4,out
+10-Oct-22,2022,4,T4,10,outubro,out/2022,42,10,2,segunda-feira,seg,Dia útil,202210,2022/T4,out
+17-Oct-22,2022,4,T4,10,outubro,out/2022,43,17,2,segunda-feira,seg,Dia útil,202210,2022/T4,out
+24-Oct-22,2022,4,T4,10,outubro,out/2022,44,24,2,segunda-feira,seg,Dia útil,202210,2022/T4,out
+31-Oct-22,2022,4,T4,10,outubro,out/2022,45,31,2,segunda-feira,seg,Dia útil,202210,2022/T4,out
+7-Nov-22,2022,4,T4,11,novembro,nov/2022,46,7,2,segunda-feira,seg,Dia útil,202211,2022/T4,nov
+14-Nov-22,2022,4,T4,11,novembro,nov/2022,47,14,2,segunda-feira,seg,Dia útil,202211,2022/T4,nov
+21-Nov-22,2022,4,T4,11,novembro,nov/2022,48,21,2,segunda-feira,seg,Dia útil,202211,2022/T4,nov
+28-Nov-22,2022,4,T4,11,novembro,nov/2022,49,28,2,segunda-feira,seg,Dia útil,202211,2022/T4,nov
+5-Dec-22,2022,4,T4,12,dezembro,dez/2022,50,5,2,segunda-feira,seg,Dia útil,202212,2022/T4,dez
+12-Dec-22,2022,4,T4,12,dezembro,dez/2022,51,12,2,segunda-feira,seg,Dia útil,202212,2022/T4,dez
+19-Dec-22,2022,4,T4,12,dezembro,dez/2022,52,19,2,segunda-feira,seg,Dia útil,202212,2022/T4,dez
+26-Dec-22,2022,4,T4,12,dezembro,dez/2022,53,26,2,segunda-feira,seg,Dia útil,202212,2022/T4,dez
+2-Jan-23,2023,1,T1,1,janeiro,jan/2023,1,2,2,segunda-feira,seg,Dia útil,202301,2023/T1,jan
+9-Jan-23,2023,1,T1,1,janeiro,jan/2023,2,9,2,segunda-feira,seg,Dia útil,202301,2023/T1,jan
+16-Jan-23,2023,1,T1,1,janeiro,jan/2023,3,16,2,segunda-feira,seg,Dia útil,202301,2023/T1,jan
+23-Jan-23,2023,1,T1,1,janeiro,jan/2023,4,23,2,segunda-feira,seg,Dia útil,202301,2023/T1,jan
+30-Jan-23,2023,1,T1,1,janeiro,jan/2023,5,30,2,segunda-feira,seg,Dia útil,202301,2023/T1,jan
+6-Feb-23,2023,1,T1,2,fevereiro,fev/2023,6,6,2,segunda-feira,seg,Dia útil,202302,2023/T1,fev
+13-Feb-23,2023,1,T1,2,fevereiro,fev/2023,7,13,2,segunda-feira,seg,Dia útil,202302,2023/T1,fev
+20-Feb-23,2023,1,T1,2,fevereiro,fev/2023,8,20,2,segunda-feira,seg,Dia útil,202302,2023/T1,fev
+27-Feb-23,2023,1,T1,2,fevereiro,fev/2023,9,27,2,segunda-feira,seg,Dia útil,202302,2023/T1,fev
+6-Mar-23,2023,1,T1,3,março,mar/2023,10,6,2,segunda-feira,seg,Dia útil,202303,2023/T1,mar
+13-Mar-23,2023,1,T1,3,março,mar/2023,11,13,2,segunda-feira,seg,Dia útil,202303,2023/T1,mar
+20-Mar-23,2023,1,T1,3,março,mar/2023,12,20,2,segunda-feira,seg,Dia útil,202303,2023/T1,mar
+27-Mar-23,2023,1,T1,3,março,mar/2023,13,27,2,segunda-feira,seg,Dia útil,202303,2023/T1,mar
+3-Apr-23,2023,2,T2,4,abril,abr/2023,14,3,2,segunda-feira,seg,Dia útil,202304,2023/T2,abr
+10-Apr-23,2023,2,T2,4,abril,abr/2023,15,10,2,segunda-feira,seg,Dia útil,202304,2023/T2,abr
+17-Apr-23,2023,2,T2,4,abril,abr/2023,16,17,2,segunda-feira,seg,Dia útil,202304,2023/T2,abr
+24-Apr-23,2023,2,T2,4,abril,abr/2023,17,24,2,segunda-feira,seg,Dia útil,202304,2023/T2,abr
+1-May-23,2023,2,T2,5,maio,mai/2023,18,1,2,segunda-feira,seg,Dia útil,202305,2023/T2,mai
+8-May-23,2023,2,T2,5,maio,mai/2023,19,8,2,segunda-feira,seg,Dia útil,202305,2023/T2,mai
+15-May-23,2023,2,T2,5,maio,mai/2023,20,15,2,segunda-feira,seg,Dia útil,202305,2023/T2,mai
+22-May-23,2023,2,T2,5,maio,mai/2023,21,22,2,segunda-feira,seg,Dia útil,202305,2023/T2,mai
+29-May-23,2023,2,T2,5,maio,mai/2023,22,29,2,segunda-feira,seg,Dia útil,202305,2023/T2,mai
+5-Jun-23,2023,2,T2,6,junho,jun/2023,23,5,2,segunda-feira,seg,Dia útil,202306,2023/T2,jun
+12-Jun-23,2023,2,T2,6,junho,jun/2023,24,12,2,segunda-feira,seg,Dia útil,202306,2023/T2,jun
+19-Jun-23,2023,2,T2,6,junho,jun/2023,25,19,2,segunda-feira,seg,Dia útil,202306,2023/T2,jun
+26-Jun-23,2023,2,T2,6,junho,jun/2023,26,26,2,segunda-feira,seg,Dia útil,202306,2023/T2,jun
+3-Jul-23,2023,3,T3,7,julho,jul/2023,27,3,2,segunda-feira,seg,Dia útil,202307,2023/T3,jul
+10-Jul-23,2023,3,T3,7,julho,jul/2023,28,10,2,segunda-feira,seg,Dia útil,202307,2023/T3,jul
+17-Jul-23,2023,3,T3,7,julho,jul/2023,29,17,2,segunda-feira,seg,Dia útil,202307,2023/T3,jul
+24-Jul-23,2023,3,T3,7,julho,jul/2023,30,24,2,segunda-feira,seg,Dia útil,202307,2023/T3,jul
+31-Jul-23,2023,3,T3,7,julho,jul/2023,31,31,2,segunda-feira,seg,Dia útil,202307,2023/T3,jul
+7-Aug-23,2023,3,T3,8,agosto,ago/2023,32,7,2,segunda-feira,seg,Dia útil,202308,2023/T3,ago
+14-Aug-23,2023,3,T3,8,agosto,ago/2023,33,14,2,segunda-feira,seg,Dia útil,202308,2023/T3,ago
+21-Aug-23,2023,3,T3,8,agosto,ago/2023,34,21,2,segunda-feira,seg,Dia útil,202308,2023/T3,ago
+28-Aug-23,2023,3,T3,8,agosto,ago/2023,35,28,2,segunda-feira,seg,Dia útil,202308,2023/T3,ago
+4-Sep-23,2023,3,T3,9,setembro,set/2023,36,4,2,segunda-feira,seg,Dia útil,202309,2023/T3,set
+11-Sep-23,2023,3,T3,9,setembro,set/2023,37,11,2,segunda-feira,seg,Dia útil,202309,2023/T3,set
+18-Sep-23,2023,3,T3,9,setembro,set/2023,38,18,2,segunda-feira,seg,Dia útil,202309,2023/T3,set
+25-Sep-23,2023,3,T3,9,setembro,set/2023,39,25,2,segunda-feira,seg,Dia útil,202309,2023/T3,set
+2-Oct-23,2023,4,T4,10,outubro,out/2023,40,2,2,segunda-feira,seg,Dia útil,202310,2023/T4,out
+9-Oct-23,2023,4,T4,10,outubro,out/2023,41,9,2,segunda-feira,seg,Dia útil,202310,2023/T4,out
+16-Oct-23,2023,4,T4,10,outubro,out/2023,42,16,2,segunda-feira,seg,Dia útil,202310,2023/T4,out
+23-Oct-23,2023,4,T4,10,outubro,out/2023,43,23,2,segunda-feira,seg,Dia útil,202310,2023/T4,out
+30-Oct-23,2023,4,T4,10,outubro,out/2023,44,30,2,segunda-feira,seg,Dia útil,202310,2023/T4,out
+6-Nov-23,2023,4,T4,11,novembro,nov/2023,45,6,2,segunda-feira,seg,Dia útil,202311,2023/T4,nov
+13-Nov-23,2023,4,T4,11,novembro,nov/2023,46,13,2,segunda-feira,seg,Dia útil,202311,2023/T4,nov
+20-Nov-23,2023,4,T4,11,novembro,nov/2023,47,20,2,segunda-feira,seg,Dia útil,202311,2023/T4,nov
+27-Nov-23,2023,4,T4,11,novembro,nov/2023,48,27,2,segunda-feira,seg,Dia útil,202311,2023/T4,nov
+4-Dec-23,2023,4,T4,12,dezembro,dez/2023,49,4,2,segunda-feira,seg,Dia útil,202312,2023/T4,dez
+11-Dec-23,2023,4,T4,12,dezembro,dez/2023,50,11,2,segunda-feira,seg,Dia útil,202312,2023/T4,dez
+18-Dec-23,2023,4,T4,12,dezembro,dez/2023,51,18,2,segunda-feira,seg,Dia útil,202312,2023/T4,dez
+25-Dec-23,2023,4,T4,12,dezembro,dez/2023,52,25,2,segunda-feira,seg,Dia útil,202312,2023/T4,dez
+4-Jan-22,2022,1,T1,1,janeiro,jan/2022,2,4,3,terça-feira,ter,Dia útil,202201,2022/T1,jan
+11-Jan-22,2022,1,T1,1,janeiro,jan/2022,3,11,3,terça-feira,ter,Dia útil,202201,2022/T1,jan
+18-Jan-22,2022,1,T1,1,janeiro,jan/2022,4,18,3,terça-feira,ter,Dia útil,202201,2022/T1,jan
+25-Jan-22,2022,1,T1,1,janeiro,jan/2022,5,25,3,terça-feira,ter,Dia útil,202201,2022/T1,jan
+1-Feb-22,2022,1,T1,2,fevereiro,fev/2022,6,1,3,terça-feira,ter,Dia útil,202202,2022/T1,fev
+8-Feb-22,2022,1,T1,2,fevereiro,fev/2022,7,8,3,terça-feira,ter,Dia útil,202202,2022/T1,fev
+15-Feb-22,2022,1,T1,2,fevereiro,fev/2022,8,15,3,terça-feira,ter,Dia útil,202202,2022/T1,fev
+22-Feb-22,2022,1,T1,2,fevereiro,fev/2022,9,22,3,terça-feira,ter,Dia útil,202202,2022/T1,fev
+1-Mar-22,2022,1,T1,3,março,mar/2022,10,1,3,terça-feira,ter,Dia útil,202203,2022/T1,mar
+8-Mar-22,2022,1,T1,3,março,mar/2022,11,8,3,terça-feira,ter,Dia útil,202203,2022/T1,mar
+15-Mar-22,2022,1,T1,3,março,mar/2022,12,15,3,terça-feira,ter,Dia útil,202203,2022/T1,mar
+22-Mar-22,2022,1,T1,3,março,mar/2022,13,22,3,terça-feira,ter,Dia útil,202203,2022/T1,mar
+29-Mar-22,2022,1,T1,3,março,mar/2022,14,29,3,terça-feira,ter,Dia útil,202203,2022/T1,mar
+5-Apr-22,2022,2,T2,4,abril,abr/2022,15,5,3,terça-feira,ter,Dia útil,202204,2022/T2,abr
+12-Apr-22,2022,2,T2,4,abril,abr/2022,16,12,3,terça-feira,ter,Dia útil,202204,2022/T2,abr
+19-Apr-22,2022,2,T2,4,abril,abr/2022,17,19,3,terça-feira,ter,Dia útil,202204,2022/T2,abr
+26-Apr-22,2022,2,T2,4,abril,abr/2022,18,26,3,terça-feira,ter,Dia útil,202204,2022/T2,abr
+3-May-22,2022,2,T2,5,maio,mai/2022,19,3,3,terça-feira,ter,Dia útil,202205,2022/T2,mai
+10-May-22,2022,2,T2,5,maio,mai/2022,20,10,3,terça-feira,ter,Dia útil,202205,2022/T2,mai
+17-May-22,2022,2,T2,5,maio,mai/2022,21,17,3,terça-feira,ter,Dia útil,202205,2022/T2,mai
+24-May-22,2022,2,T2,5,maio,mai/2022,22,24,3,terça-feira,ter,Dia útil,202205,2022/T2,mai
+31-May-22,2022,2,T2,5,maio,mai/2022,23,31,3,terça-feira,ter,Dia útil,202205,2022/T2,mai
+7-Jun-22,2022,2,T2,6,junho,jun/2022,24,7,3,terça-feira,ter,Dia útil,202206,2022/T2,jun
+14-Jun-22,2022,2,T2,6,junho,jun/2022,25,14,3,terça-feira,ter,Dia útil,202206,2022/T2,jun
+21-Jun-22,2022,2,T2,6,junho,jun/2022,26,21,3,terça-feira,ter,Dia útil,202206,2022/T2,jun
+28-Jun-22,2022,2,T2,6,junho,jun/2022,27,28,3,terça-feira,ter,Dia útil,202206,2022/T2,jun
+5-Jul-22,2022,3,T3,7,julho,jul/2022,28,5,3,terça-feira,ter,Dia útil,202207,2022/T3,jul
+12-Jul-22,2022,3,T3,7,julho,jul/2022,29,12,3,terça-feira,ter,Dia útil,202207,2022/T3,jul
+19-Jul-22,2022,3,T3,7,julho,jul/2022,30,19,3,terça-feira,ter,Dia útil,202207,2022/T3,jul
+26-Jul-22,2022,3,T3,7,julho,jul/2022,31,26,3,terça-feira,ter,Dia útil,202207,2022/T3,jul
+2-Aug-22,2022,3,T3,8,agosto,ago/2022,32,2,3,terça-feira,ter,Dia útil,202208,2022/T3,ago
+9-Aug-22,2022,3,T3,8,agosto,ago/2022,33,9,3,terça-feira,ter,Dia útil,202208,2022/T3,ago
+16-Aug-22,2022,3,T3,8,agosto,ago/2022,34,16,3,terça-feira,ter,Dia útil,202208,2022/T3,ago
+23-Aug-22,2022,3,T3,8,agosto,ago/2022,35,23,3,terça-feira,ter,Dia útil,202208,2022/T3,ago
+30-Aug-22,2022,3,T3,8,agosto,ago/2022,36,30,3,terça-feira,ter,Dia útil,202208,2022/T3,ago
+6-Sep-22,2022,3,T3,9,setembro,set/2022,37,6,3,terça-feira,ter,Dia útil,202209,2022/T3,set
+13-Sep-22,2022,3,T3,9,setembro,set/2022,38,13,3,terça-feira,ter,Dia útil,202209,2022/T3,set
+20-Sep-22,2022,3,T3,9,setembro,set/2022,39,20,3,terça-feira,ter,Dia útil,202209,2022/T3,set
+27-Sep-22,2022,3,T3,9,setembro,set/2022,40,27,3,terça-feira,ter,Dia útil,202209,2022/T3,set
+4-Oct-22,2022,4,T4,10,outubro,out/2022,41,4,3,terça-feira,ter,Dia útil,202210,2022/T4,out
+11-Oct-22,2022,4,T4,10,outubro,out/2022,42,11,3,terça-feira,ter,Dia útil,202210,2022/T4,out
+18-Oct-22,2022,4,T4,10,outubro,out/2022,43,18,3,terça-feira,ter,Dia útil,202210,2022/T4,out
+25-Oct-22,2022,4,T4,10,outubro,out/2022,44,25,3,terça-feira,ter,Dia útil,202210,2022/T4,out
+1-Nov-22,2022,4,T4,11,novembro,nov/2022,45,1,3,terça-feira,ter,Dia útil,202211,2022/T4,nov
+8-Nov-22,2022,4,T4,11,novembro,nov/2022,46,8,3,terça-feira,ter,Dia útil,202211,2022/T4,nov
+15-Nov-22,2022,4,T4,11,novembro,nov/2022,47,15,3,terça-feira,ter,Dia útil,202211,2022/T4,nov
+22-Nov-22,2022,4,T4,11,novembro,nov/2022,48,22,3,terça-feira,ter,Dia útil,202211,2022/T4,nov
+29-Nov-22,2022,4,T4,11,novembro,nov/2022,49,29,3,terça-feira,ter,Dia útil,202211,2022/T4,nov
+6-Dec-22,2022,4,T4,12,dezembro,dez/2022,50,6,3,terça-feira,ter,Dia útil,202212,2022/T4,dez
+13-Dec-22,2022,4,T4,12,dezembro,dez/2022,51,13,3,terça-feira,ter,Dia útil,202212,2022/T4,dez
+20-Dec-22,2022,4,T4,12,dezembro,dez/2022,52,20,3,terça-feira,ter,Dia útil,202212,2022/T4,dez
+27-Dec-22,2022,4,T4,12,dezembro,dez/2022,53,27,3,terça-feira,ter,Dia útil,202212,2022/T4,dez
+3-Jan-23,2023,1,T1,1,janeiro,jan/2023,1,3,3,terça-feira,ter,Dia útil,202301,2023/T1,jan
+10-Jan-23,2023,1,T1,1,janeiro,jan/2023,2,10,3,terça-feira,ter,Dia útil,202301,2023/T1,jan
+17-Jan-23,2023,1,T1,1,janeiro,jan/2023,3,17,3,terça-feira,ter,Dia útil,202301,2023/T1,jan
+24-Jan-23,2023,1,T1,1,janeiro,jan/2023,4,24,3,terça-feira,ter,Dia útil,202301,2023/T1,jan
+31-Jan-23,2023,1,T1,1,janeiro,jan/2023,5,31,3,terça-feira,ter,Dia útil,202301,2023/T1,jan
+7-Feb-23,2023,1,T1,2,fevereiro,fev/2023,6,7,3,terça-feira,ter,Dia útil,202302,2023/T1,fev
+14-Feb-23,2023,1,T1,2,fevereiro,fev/2023,7,14,3,terça-feira,ter,Dia útil,202302,2023/T1,fev
+21-Feb-23,2023,1,T1,2,fevereiro,fev/2023,8,21,3,terça-feira,ter,Dia útil,202302,2023/T1,fev
+28-Feb-23,2023,1,T1,2,fevereiro,fev/2023,9,28,3,terça-feira,ter,Dia útil,202302,2023/T1,fev
+7-Mar-23,2023,1,T1,3,março,mar/2023,10,7,3,terça-feira,ter,Dia útil,202303,2023/T1,mar
+14-Mar-23,2023,1,T1,3,março,mar/2023,11,14,3,terça-feira,ter,Dia útil,202303,2023/T1,mar
+21-Mar-23,2023,1,T1,3,março,mar/2023,12,21,3,terça-feira,ter,Dia útil,202303,2023/T1,mar
+28-Mar-23,2023,1,T1,3,março,mar/2023,13,28,3,terça-feira,ter,Dia útil,202303,2023/T1,mar
+4-Apr-23,2023,2,T2,4,abril,abr/2023,14,4,3,terça-feira,ter,Dia útil,202304,2023/T2,abr
+11-Apr-23,2023,2,T2,4,abril,abr/2023,15,11,3,terça-feira,ter,Dia útil,202304,2023/T2,abr
+18-Apr-23,2023,2,T2,4,abril,abr/2023,16,18,3,terça-feira,ter,Dia útil,202304,2023/T2,abr
+25-Apr-23,2023,2,T2,4,abril,abr/2023,17,25,3,terça-feira,ter,Dia útil,202304,2023/T2,abr
+2-May-23,2023,2,T2,5,maio,mai/2023,18,2,3,terça-feira,ter,Dia útil,202305,2023/T2,mai
+9-May-23,2023,2,T2,5,maio,mai/2023,19,9,3,terça-feira,ter,Dia útil,202305,2023/T2,mai
+16-May-23,2023,2,T2,5,maio,mai/2023,20,16,3,terça-feira,ter,Dia útil,202305,2023/T2,mai
+23-May-23,2023,2,T2,5,maio,mai/2023,21,23,3,terça-feira,ter,Dia útil,202305,2023/T2,mai
+30-May-23,2023,2,T2,5,maio,mai/2023,22,30,3,terça-feira,ter,Dia útil,202305,2023/T2,mai
+6-Jun-23,2023,2,T2,6,junho,jun/2023,23,6,3,terça-feira,ter,Dia útil,202306,2023/T2,jun
+13-Jun-23,2023,2,T2,6,junho,jun/2023,24,13,3,terça-feira,ter,Dia útil,202306,2023/T2,jun
+20-Jun-23,2023,2,T2,6,junho,jun/2023,25,20,3,terça-feira,ter,Dia útil,202306,2023/T2,jun
+27-Jun-23,2023,2,T2,6,junho,jun/2023,26,27,3,terça-feira,ter,Dia útil,202306,2023/T2,jun
+4-Jul-23,2023,3,T3,7,julho,jul/2023,27,4,3,terça-feira,ter,Dia útil,202307,2023/T3,jul
+11-Jul-23,2023,3,T3,7,julho,jul/2023,28,11,3,terça-feira,ter,Dia útil,202307,2023/T3,jul
+18-Jul-23,2023,3,T3,7,julho,jul/2023,29,18,3,terça-feira,ter,Dia útil,202307,2023/T3,jul
+25-Jul-23,2023,3,T3,7,julho,jul/2023,30,25,3,terça-feira,ter,Dia útil,202307,2023/T3,jul
+1-Aug-23,2023,3,T3,8,agosto,ago/2023,31,1,3,terça-feira,ter,Dia útil,202308,2023/T3,ago
+8-Aug-23,2023,3,T3,8,agosto,ago/2023,32,8,3,terça-feira,ter,Dia útil,202308,2023/T3,ago
+15-Aug-23,2023,3,T3,8,agosto,ago/2023,33,15,3,terça-feira,ter,Dia útil,202308,2023/T3,ago
+22-Aug-23,2023,3,T3,8,agosto,ago/2023,34,22,3,terça-feira,ter,Dia útil,202308,2023/T3,ago
+29-Aug-23,2023,3,T3,8,agosto,ago/2023,35,29,3,terça-feira,ter,Dia útil,202308,2023/T3,ago
+5-Sep-23,2023,3,T3,9,setembro,set/2023,36,5,3,terça-feira,ter,Dia útil,202309,2023/T3,set
+12-Sep-23,2023,3,T3,9,setembro,set/2023,37,12,3,terça-feira,ter,Dia útil,202309,2023/T3,set
+19-Sep-23,2023,3,T3,9,setembro,set/2023,38,19,3,terça-feira,ter,Dia útil,202309,2023/T3,set
+26-Sep-23,2023,3,T3,9,setembro,set/2023,39,26,3,terça-feira,ter,Dia útil,202309,2023/T3,set
+3-Oct-23,2023,4,T4,10,outubro,out/2023,40,3,3,terça-feira,ter,Dia útil,202310,2023/T4,out
+10-Oct-23,2023,4,T4,10,outubro,out/2023,41,10,3,terça-feira,ter,Dia útil,202310,2023/T4,out
+17-Oct-23,2023,4,T4,10,outubro,out/2023,42,17,3,terça-feira,ter,Dia útil,202310,2023/T4,out
+24-Oct-23,2023,4,T4,10,outubro,out/2023,43,24,3,terça-feira,ter,Dia útil,202310,2023/T4,out
+31-Oct-23,2023,4,T4,10,outubro,out/2023,44,31,3,terça-feira,ter,Dia útil,202310,2023/T4,out
+7-Nov-23,2023,4,T4,11,novembro,nov/2023,45,7,3,terça-feira,ter,Dia útil,202311,2023/T4,nov
+14-Nov-23,2023,4,T4,11,novembro,nov/2023,46,14,3,terça-feira,ter,Dia útil,202311,2023/T4,nov
+21-Nov-23,2023,4,T4,11,novembro,nov/2023,47,21,3,terça-feira,ter,Dia útil,202311,2023/T4,nov
+28-Nov-23,2023,4,T4,11,novembro,nov/2023,48,28,3,terça-feira,ter,Dia útil,202311,2023/T4,nov
+5-Dec-23,2023,4,T4,12,dezembro,dez/2023,49,5,3,terça-feira,ter,Dia útil,202312,2023/T4,dez
+12-Dec-23,2023,4,T4,12,dezembro,dez/2023,50,12,3,terça-feira,ter,Dia útil,202312,2023/T4,dez
+19-Dec-23,2023,4,T4,12,dezembro,dez/2023,51,19,3,terça-feira,ter,Dia útil,202312,2023/T4,dez
+26-Dec-23,2023,4,T4,12,dezembro,dez/2023,52,26,3,terça-feira,ter,Dia útil,202312,2023/T4,dez
+5-Jan-22,2022,1,T1,1,janeiro,jan/2022,2,5,4,quarta-feira,qua,Dia útil,202201,2022/T1,jan
+12-Jan-22,2022,1,T1,1,janeiro,jan/2022,3,12,4,quarta-feira,qua,Dia útil,202201,2022/T1,jan
+19-Jan-22,2022,1,T1,1,janeiro,jan/2022,4,19,4,quarta-feira,qua,Dia útil,202201,2022/T1,jan
+26-Jan-22,2022,1,T1,1,janeiro,jan/2022,5,26,4,quarta-feira,qua,Dia útil,202201,2022/T1,jan
+2-Feb-22,2022,1,T1,2,fevereiro,fev/2022,6,2,4,quarta-feira,qua,Dia útil,202202,2022/T1,fev
+9-Feb-22,2022,1,T1,2,fevereiro,fev/2022,7,9,4,quarta-feira,qua,Dia útil,202202,2022/T1,fev
+16-Feb-22,2022,1,T1,2,fevereiro,fev/2022,8,16,4,quarta-feira,qua,Dia útil,202202,2022/T1,fev
+23-Feb-22,2022,1,T1,2,fevereiro,fev/2022,9,23,4,quarta-feira,qua,Dia útil,202202,2022/T1,fev
+2-Mar-22,2022,1,T1,3,março,mar/2022,10,2,4,quarta-feira,qua,Dia útil,202203,2022/T1,mar
+9-Mar-22,2022,1,T1,3,março,mar/2022,11,9,4,quarta-feira,qua,Dia útil,202203,2022/T1,mar
+16-Mar-22,2022,1,T1,3,março,mar/2022,12,16,4,quarta-feira,qua,Dia útil,202203,2022/T1,mar
+23-Mar-22,2022,1,T1,3,março,mar/2022,13,23,4,quarta-feira,qua,Dia útil,202203,2022/T1,mar
+30-Mar-22,2022,1,T1,3,março,mar/2022,14,30,4,quarta-feira,qua,Dia útil,202203,2022/T1,mar
+6-Apr-22,2022,2,T2,4,abril,abr/2022,15,6,4,quarta-feira,qua,Dia útil,202204,2022/T2,abr
+13-Apr-22,2022,2,T2,4,abril,abr/2022,16,13,4,quarta-feira,qua,Dia útil,202204,2022/T2,abr
+20-Apr-22,2022,2,T2,4,abril,abr/2022,17,20,4,quarta-feira,qua,Dia útil,202204,2022/T2,abr
+27-Apr-22,2022,2,T2,4,abril,abr/2022,18,27,4,quarta-feira,qua,Dia útil,202204,2022/T2,abr
+4-May-22,2022,2,T2,5,maio,mai/2022,19,4,4,quarta-feira,qua,Dia útil,202205,2022/T2,mai
+11-May-22,2022,2,T2,5,maio,mai/2022,20,11,4,quarta-feira,qua,Dia útil,202205,2022/T2,mai
+18-May-22,2022,2,T2,5,maio,mai/2022,21,18,4,quarta-feira,qua,Dia útil,202205,2022/T2,mai
+25-May-22,2022,2,T2,5,maio,mai/2022,22,25,4,quarta-feira,qua,Dia útil,202205,2022/T2,mai
+1-Jun-22,2022,2,T2,6,junho,jun/2022,23,1,4,quarta-feira,qua,Dia útil,202206,2022/T2,jun
+8-Jun-22,2022,2,T2,6,junho,jun/2022,24,8,4,quarta-feira,qua,Dia útil,202206,2022/T2,jun
+15-Jun-22,2022,2,T2,6,junho,jun/2022,25,15,4,quarta-feira,qua,Dia útil,202206,2022/T2,jun
+22-Jun-22,2022,2,T2,6,junho,jun/2022,26,22,4,quarta-feira,qua,Dia útil,202206,2022/T2,jun
+29-Jun-22,2022,2,T2,6,junho,jun/2022,27,29,4,quarta-feira,qua,Dia útil,202206,2022/T2,jun
+6-Jul-22,2022,3,T3,7,julho,jul/2022,28,6,4,quarta-feira,qua,Dia útil,202207,2022/T3,jul
+13-Jul-22,2022,3,T3,7,julho,jul/2022,29,13,4,quarta-feira,qua,Dia útil,202207,2022/T3,jul
+20-Jul-22,2022,3,T3,7,julho,jul/2022,30,20,4,quarta-feira,qua,Dia útil,202207,2022/T3,jul
+27-Jul-22,2022,3,T3,7,julho,jul/2022,31,27,4,quarta-feira,qua,Dia útil,202207,2022/T3,jul
+3-Aug-22,2022,3,T3,8,agosto,ago/2022,32,3,4,quarta-feira,qua,Dia útil,202208,2022/T3,ago
+10-Aug-22,2022,3,T3,8,agosto,ago/2022,33,10,4,quarta-feira,qua,Dia útil,202208,2022/T3,ago
+17-Aug-22,2022,3,T3,8,agosto,ago/2022,34,17,4,quarta-feira,qua,Dia útil,202208,2022/T3,ago
+24-Aug-22,2022,3,T3,8,agosto,ago/2022,35,24,4,quarta-feira,qua,Dia útil,202208,2022/T3,ago
+31-Aug-22,2022,3,T3,8,agosto,ago/2022,36,31,4,quarta-feira,qua,Dia útil,202208,2022/T3,ago
+7-Sep-22,2022,3,T3,9,setembro,set/2022,37,7,4,quarta-feira,qua,Dia útil,202209,2022/T3,set
+14-Sep-22,2022,3,T3,9,setembro,set/2022,38,14,4,quarta-feira,qua,Dia útil,202209,2022/T3,set
+21-Sep-22,2022,3,T3,9,setembro,set/2022,39,21,4,quarta-feira,qua,Dia útil,202209,2022/T3,set
+28-Sep-22,2022,3,T3,9,setembro,set/2022,40,28,4,quarta-feira,qua,Dia útil,202209,2022/T3,set
+5-Oct-22,2022,4,T4,10,outubro,out/2022,41,5,4,quarta-feira,qua,Dia útil,202210,2022/T4,out
+12-Oct-22,2022,4,T4,10,outubro,out/2022,42,12,4,quarta-feira,qua,Dia útil,202210,2022/T4,out
+19-Oct-22,2022,4,T4,10,outubro,out/2022,43,19,4,quarta-feira,qua,Dia útil,202210,2022/T4,out
+26-Oct-22,2022,4,T4,10,outubro,out/2022,44,26,4,quarta-feira,qua,Dia útil,202210,2022/T4,out
+2-Nov-22,2022,4,T4,11,novembro,nov/2022,45,2,4,quarta-feira,qua,Dia útil,202211,2022/T4,nov
+9-Nov-22,2022,4,T4,11,novembro,nov/2022,46,9,4,quarta-feira,qua,Dia útil,202211,2022/T4,nov
+16-Nov-22,2022,4,T4,11,novembro,nov/2022,47,16,4,quarta-feira,qua,Dia útil,202211,2022/T4,nov
+23-Nov-22,2022,4,T4,11,novembro,nov/2022,48,23,4,quarta-feira,qua,Dia útil,202211,2022/T4,nov
+30-Nov-22,2022,4,T4,11,novembro,nov/2022,49,30,4,quarta-feira,qua,Dia útil,202211,2022/T4,nov
+7-Dec-22,2022,4,T4,12,dezembro,dez/2022,50,7,4,quarta-feira,qua,Dia útil,202212,2022/T4,dez
+14-Dec-22,2022,4,T4,12,dezembro,dez/2022,51,14,4,quarta-feira,qua,Dia útil,202212,2022/T4,dez
+21-Dec-22,2022,4,T4,12,dezembro,dez/2022,52,21,4,quarta-feira,qua,Dia útil,202212,2022/T4,dez
+28-Dec-22,2022,4,T4,12,dezembro,dez/2022,53,28,4,quarta-feira,qua,Dia útil,202212,2022/T4,dez
+4-Jan-23,2023,1,T1,1,janeiro,jan/2023,1,4,4,quarta-feira,qua,Dia útil,202301,2023/T1,jan
+11-Jan-23,2023,1,T1,1,janeiro,jan/2023,2,11,4,quarta-feira,qua,Dia útil,202301,2023/T1,jan
+18-Jan-23,2023,1,T1,1,janeiro,jan/2023,3,18,4,quarta-feira,qua,Dia útil,202301,2023/T1,jan
+25-Jan-23,2023,1,T1,1,janeiro,jan/2023,4,25,4,quarta-feira,qua,Dia útil,202301,2023/T1,jan
+1-Feb-23,2023,1,T1,2,fevereiro,fev/2023,5,1,4,quarta-feira,qua,Dia útil,202302,2023/T1,fev
+8-Feb-23,2023,1,T1,2,fevereiro,fev/2023,6,8,4,quarta-feira,qua,Dia útil,202302,2023/T1,fev
+15-Feb-23,2023,1,T1,2,fevereiro,fev/2023,7,15,4,quarta-feira,qua,Dia útil,202302,2023/T1,fev
+22-Feb-23,2023,1,T1,2,fevereiro,fev/2023,8,22,4,quarta-feira,qua,Dia útil,202302,2023/T1,fev
+1-Mar-23,2023,1,T1,3,março,mar/2023,9,1,4,quarta-feira,qua,Dia útil,202303,2023/T1,mar
+8-Mar-23,2023,1,T1,3,março,mar/2023,10,8,4,quarta-feira,qua,Dia útil,202303,2023/T1,mar
+15-Mar-23,2023,1,T1,3,março,mar/2023,11,15,4,quarta-feira,qua,Dia útil,202303,2023/T1,mar
+22-Mar-23,2023,1,T1,3,março,mar/2023,12,22,4,quarta-feira,qua,Dia útil,202303,2023/T1,mar
+29-Mar-23,2023,1,T1,3,março,mar/2023,13,29,4,quarta-feira,qua,Dia útil,202303,2023/T1,mar
+5-Apr-23,2023,2,T2,4,abril,abr/2023,14,5,4,quarta-feira,qua,Dia útil,202304,2023/T2,abr
+12-Apr-23,2023,2,T2,4,abril,abr/2023,15,12,4,quarta-feira,qua,Dia útil,202304,2023/T2,abr
+19-Apr-23,2023,2,T2,4,abril,abr/2023,16,19,4,quarta-feira,qua,Dia útil,202304,2023/T2,abr
+26-Apr-23,2023,2,T2,4,abril,abr/2023,17,26,4,quarta-feira,qua,Dia útil,202304,2023/T2,abr
+3-May-23,2023,2,T2,5,maio,mai/2023,18,3,4,quarta-feira,qua,Dia útil,202305,2023/T2,mai
+10-May-23,2023,2,T2,5,maio,mai/2023,19,10,4,quarta-feira,qua,Dia útil,202305,2023/T2,mai
+17-May-23,2023,2,T2,5,maio,mai/2023,20,17,4,quarta-feira,qua,Dia útil,202305,2023/T2,mai
+24-May-23,2023,2,T2,5,maio,mai/2023,21,24,4,quarta-feira,qua,Dia útil,202305,2023/T2,mai
+31-May-23,2023,2,T2,5,maio,mai/2023,22,31,4,quarta-feira,qua,Dia útil,202305,2023/T2,mai
+7-Jun-23,2023,2,T2,6,junho,jun/2023,23,7,4,quarta-feira,qua,Dia útil,202306,2023/T2,jun
+14-Jun-23,2023,2,T2,6,junho,jun/2023,24,14,4,quarta-feira,qua,Dia útil,202306,2023/T2,jun
+21-Jun-23,2023,2,T2,6,junho,jun/2023,25,21,4,quarta-feira,qua,Dia útil,202306,2023/T2,jun
+28-Jun-23,2023,2,T2,6,junho,jun/2023,26,28,4,quarta-feira,qua,Dia útil,202306,2023/T2,jun
+5-Jul-23,2023,3,T3,7,julho,jul/2023,27,5,4,quarta-feira,qua,Dia útil,202307,2023/T3,jul
+12-Jul-23,2023,3,T3,7,julho,jul/2023,28,12,4,quarta-feira,qua,Dia útil,202307,2023/T3,jul
+19-Jul-23,2023,3,T3,7,julho,jul/2023,29,19,4,quarta-feira,qua,Dia útil,202307,2023/T3,jul
+26-Jul-23,2023,3,T3,7,julho,jul/2023,30,26,4,quarta-feira,qua,Dia útil,202307,2023/T3,jul
+2-Aug-23,2023,3,T3,8,agosto,ago/2023,31,2,4,quarta-feira,qua,Dia útil,202308,2023/T3,ago
+9-Aug-23,2023,3,T3,8,agosto,ago/2023,32,9,4,quarta-feira,qua,Dia útil,202308,2023/T3,ago
+16-Aug-23,2023,3,T3,8,agosto,ago/2023,33,16,4,quarta-feira,qua,Dia útil,202308,2023/T3,ago
+23-Aug-23,2023,3,T3,8,agosto,ago/2023,34,23,4,quarta-feira,qua,Dia útil,202308,2023/T3,ago
+30-Aug-23,2023,3,T3,8,agosto,ago/2023,35,30,4,quarta-feira,qua,Dia útil,202308,2023/T3,ago
+6-Sep-23,2023,3,T3,9,setembro,set/2023,36,6,4,quarta-feira,qua,Dia útil,202309,2023/T3,set
+13-Sep-23,2023,3,T3,9,setembro,set/2023,37,13,4,quarta-feira,qua,Dia útil,202309,2023/T3,set
+20-Sep-23,2023,3,T3,9,setembro,set/2023,38,20,4,quarta-feira,qua,Dia útil,202309,2023/T3,set
+27-Sep-23,2023,3,T3,9,setembro,set/2023,39,27,4,quarta-feira,qua,Dia útil,202309,2023/T3,set
+4-Oct-23,2023,4,T4,10,outubro,out/2023,40,4,4,quarta-feira,qua,Dia útil,202310,2023/T4,out
+11-Oct-23,2023,4,T4,10,outubro,out/2023,41,11,4,quarta-feira,qua,Dia útil,202310,2023/T4,out
+18-Oct-23,2023,4,T4,10,outubro,out/2023,42,18,4,quarta-feira,qua,Dia útil,202310,2023/T4,out
+25-Oct-23,2023,4,T4,10,outubro,out/2023,43,25,4,quarta-feira,qua,Dia útil,202310,2023/T4,out
+1-Nov-23,2023,4,T4,11,novembro,nov/2023,44,1,4,quarta-feira,qua,Dia útil,202311,2023/T4,nov
+8-Nov-23,2023,4,T4,11,novembro,nov/2023,45,8,4,quarta-feira,qua,Dia útil,202311,2023/T4,nov
+15-Nov-23,2023,4,T4,11,novembro,nov/2023,46,15,4,quarta-feira,qua,Dia útil,202311,2023/T4,nov
+22-Nov-23,2023,4,T4,11,novembro,nov/2023,47,22,4,quarta-feira,qua,Dia útil,202311,2023/T4,nov
+29-Nov-23,2023,4,T4,11,novembro,nov/2023,48,29,4,quarta-feira,qua,Dia útil,202311,2023/T4,nov
+6-Dec-23,2023,4,T4,12,dezembro,dez/2023,49,6,4,quarta-feira,qua,Dia útil,202312,2023/T4,dez
+13-Dec-23,2023,4,T4,12,dezembro,dez/2023,50,13,4,quarta-feira,qua,Dia útil,202312,2023/T4,dez
+20-Dec-23,2023,4,T4,12,dezembro,dez/2023,51,20,4,quarta-feira,qua,Dia útil,202312,2023/T4,dez
+27-Dec-23,2023,4,T4,12,dezembro,dez/2023,52,27,4,quarta-feira,qua,Dia útil,202312,2023/T4,dez
+6-Jan-22,2022,1,T1,1,janeiro,jan/2022,2,6,5,quinta-feira,qui,Dia útil,202201,2022/T1,jan
+13-Jan-22,2022,1,T1,1,janeiro,jan/2022,3,13,5,quinta-feira,qui,Dia útil,202201,2022/T1,jan
+20-Jan-22,2022,1,T1,1,janeiro,jan/2022,4,20,5,quinta-feira,qui,Dia útil,202201,2022/T1,jan
+27-Jan-22,2022,1,T1,1,janeiro,jan/2022,5,27,5,quinta-feira,qui,Dia útil,202201,2022/T1,jan
+3-Feb-22,2022,1,T1,2,fevereiro,fev/2022,6,3,5,quinta-feira,qui,Dia útil,202202,2022/T1,fev
+10-Feb-22,2022,1,T1,2,fevereiro,fev/2022,7,10,5,quinta-feira,qui,Dia útil,202202,2022/T1,fev
+17-Feb-22,2022,1,T1,2,fevereiro,fev/2022,8,17,5,quinta-feira,qui,Dia útil,202202,2022/T1,fev
+24-Feb-22,2022,1,T1,2,fevereiro,fev/2022,9,24,5,quinta-feira,qui,Dia útil,202202,2022/T1,fev
+3-Mar-22,2022,1,T1,3,março,mar/2022,10,3,5,quinta-feira,qui,Dia útil,202203,2022/T1,mar
+10-Mar-22,2022,1,T1,3,março,mar/2022,11,10,5,quinta-feira,qui,Dia útil,202203,2022/T1,mar
+17-Mar-22,2022,1,T1,3,março,mar/2022,12,17,5,quinta-feira,qui,Dia útil,202203,2022/T1,mar
+24-Mar-22,2022,1,T1,3,março,mar/2022,13,24,5,quinta-feira,qui,Dia útil,202203,2022/T1,mar
+31-Mar-22,2022,1,T1,3,março,mar/2022,14,31,5,quinta-feira,qui,Dia útil,202203,2022/T1,mar
+7-Apr-22,2022,2,T2,4,abril,abr/2022,15,7,5,quinta-feira,qui,Dia útil,202204,2022/T2,abr
+14-Apr-22,2022,2,T2,4,abril,abr/2022,16,14,5,quinta-feira,qui,Dia útil,202204,2022/T2,abr
+21-Apr-22,2022,2,T2,4,abril,abr/2022,17,21,5,quinta-feira,qui,Dia útil,202204,2022/T2,abr
+28-Apr-22,2022,2,T2,4,abril,abr/2022,18,28,5,quinta-feira,qui,Dia útil,202204,2022/T2,abr
+5-May-22,2022,2,T2,5,maio,mai/2022,19,5,5,quinta-feira,qui,Dia útil,202205,2022/T2,mai
+12-May-22,2022,2,T2,5,maio,mai/2022,20,12,5,quinta-feira,qui,Dia útil,202205,2022/T2,mai
+19-May-22,2022,2,T2,5,maio,mai/2022,21,19,5,quinta-feira,qui,Dia útil,202205,2022/T2,mai
+26-May-22,2022,2,T2,5,maio,mai/2022,22,26,5,quinta-feira,qui,Dia útil,202205,2022/T2,mai
+2-Jun-22,2022,2,T2,6,junho,jun/2022,23,2,5,quinta-feira,qui,Dia útil,202206,2022/T2,jun
+9-Jun-22,2022,2,T2,6,junho,jun/2022,24,9,5,quinta-feira,qui,Dia útil,202206,2022/T2,jun
+16-Jun-22,2022,2,T2,6,junho,jun/2022,25,16,5,quinta-feira,qui,Dia útil,202206,2022/T2,jun
+23-Jun-22,2022,2,T2,6,junho,jun/2022,26,23,5,quinta-feira,qui,Dia útil,202206,2022/T2,jun
+30-Jun-22,2022,2,T2,6,junho,jun/2022,27,30,5,quinta-feira,qui,Dia útil,202206,2022/T2,jun
+7-Jul-22,2022,3,T3,7,julho,jul/2022,28,7,5,quinta-feira,qui,Dia útil,202207,2022/T3,jul
+14-Jul-22,2022,3,T3,7,julho,jul/2022,29,14,5,quinta-feira,qui,Dia útil,202207,2022/T3,jul
+21-Jul-22,2022,3,T3,7,julho,jul/2022,30,21,5,quinta-feira,qui,Dia útil,202207,2022/T3,jul
+28-Jul-22,2022,3,T3,7,julho,jul/2022,31,28,5,quinta-feira,qui,Dia útil,202207,2022/T3,jul
+4-Aug-22,2022,3,T3,8,agosto,ago/2022,32,4,5,quinta-feira,qui,Dia útil,202208,2022/T3,ago
+11-Aug-22,2022,3,T3,8,agosto,ago/2022,33,11,5,quinta-feira,qui,Dia útil,202208,2022/T3,ago
+18-Aug-22,2022,3,T3,8,agosto,ago/2022,34,18,5,quinta-feira,qui,Dia útil,202208,2022/T3,ago
+25-Aug-22,2022,3,T3,8,agosto,ago/2022,35,25,5,quinta-feira,qui,Dia útil,202208,2022/T3,ago
+1-Sep-22,2022,3,T3,9,setembro,set/2022,36,1,5,quinta-feira,qui,Dia útil,202209,2022/T3,set
+8-Sep-22,2022,3,T3,9,setembro,set/2022,37,8,5,quinta-feira,qui,Dia útil,202209,2022/T3,set
+15-Sep-22,2022,3,T3,9,setembro,set/2022,38,15,5,quinta-feira,qui,Dia útil,202209,2022/T3,set
+22-Sep-22,2022,3,T3,9,setembro,set/2022,39,22,5,quinta-feira,qui,Dia útil,202209,2022/T3,set
+29-Sep-22,2022,3,T3,9,setembro,set/2022,40,29,5,quinta-feira,qui,Dia útil,202209,2022/T3,set
+6-Oct-22,2022,4,T4,10,outubro,out/2022,41,6,5,quinta-feira,qui,Dia útil,202210,2022/T4,out
+13-Oct-22,2022,4,T4,10,outubro,out/2022,42,13,5,quinta-feira,qui,Dia útil,202210,2022/T4,out
+20-Oct-22,2022,4,T4,10,outubro,out/2022,43,20,5,quinta-feira,qui,Dia útil,202210,2022/T4,out
+27-Oct-22,2022,4,T4,10,outubro,out/2022,44,27,5,quinta-feira,qui,Dia útil,202210,2022/T4,out
+3-Nov-22,2022,4,T4,11,novembro,nov/2022,45,3,5,quinta-feira,qui,Dia útil,202211,2022/T4,nov
+10-Nov-22,2022,4,T4,11,novembro,nov/2022,46,10,5,quinta-feira,qui,Dia útil,202211,2022/T4,nov
+17-Nov-22,2022,4,T4,11,novembro,nov/2022,47,17,5,quinta-feira,qui,Dia útil,202211,2022/T4,nov
+24-Nov-22,2022,4,T4,11,novembro,nov/2022,48,24,5,quinta-feira,qui,Dia útil,202211,2022/T4,nov
+1-Dec-22,2022,4,T4,12,dezembro,dez/2022,49,1,5,quinta-feira,qui,Dia útil,202212,2022/T4,dez
+8-Dec-22,2022,4,T4,12,dezembro,dez/2022,50,8,5,quinta-feira,qui,Dia útil,202212,2022/T4,dez
+15-Dec-22,2022,4,T4,12,dezembro,dez/2022,51,15,5,quinta-feira,qui,Dia útil,202212,2022/T4,dez
+22-Dec-22,2022,4,T4,12,dezembro,dez/2022,52,22,5,quinta-feira,qui,Dia útil,202212,2022/T4,dez
+29-Dec-22,2022,4,T4,12,dezembro,dez/2022,53,29,5,quinta-feira,qui,Dia útil,202212,2022/T4,dez
+5-Jan-23,2023,1,T1,1,janeiro,jan/2023,1,5,5,quinta-feira,qui,Dia útil,202301,2023/T1,jan
+12-Jan-23,2023,1,T1,1,janeiro,jan/2023,2,12,5,quinta-feira,qui,Dia útil,202301,2023/T1,jan
+19-Jan-23,2023,1,T1,1,janeiro,jan/2023,3,19,5,quinta-feira,qui,Dia útil,202301,2023/T1,jan
+26-Jan-23,2023,1,T1,1,janeiro,jan/2023,4,26,5,quinta-feira,qui,Dia útil,202301,2023/T1,jan
+2-Feb-23,2023,1,T1,2,fevereiro,fev/2023,5,2,5,quinta-feira,qui,Dia útil,202302,2023/T1,fev
+9-Feb-23,2023,1,T1,2,fevereiro,fev/2023,6,9,5,quinta-feira,qui,Dia útil,202302,2023/T1,fev
+16-Feb-23,2023,1,T1,2,fevereiro,fev/2023,7,16,5,quinta-feira,qui,Dia útil,202302,2023/T1,fev
+23-Feb-23,2023,1,T1,2,fevereiro,fev/2023,8,23,5,quinta-feira,qui,Dia útil,202302,2023/T1,fev
+2-Mar-23,2023,1,T1,3,março,mar/2023,9,2,5,quinta-feira,qui,Dia útil,202303,2023/T1,mar
+9-Mar-23,2023,1,T1,3,março,mar/2023,10,9,5,quinta-feira,qui,Dia útil,202303,2023/T1,mar
+16-Mar-23,2023,1,T1,3,março,mar/2023,11,16,5,quinta-feira,qui,Dia útil,202303,2023/T1,mar
+23-Mar-23,2023,1,T1,3,março,mar/2023,12,23,5,quinta-feira,qui,Dia útil,202303,2023/T1,mar
+30-Mar-23,2023,1,T1,3,março,mar/2023,13,30,5,quinta-feira,qui,Dia útil,202303,2023/T1,mar
+6-Apr-23,2023,2,T2,4,abril,abr/2023,14,6,5,quinta-feira,qui,Dia útil,202304,2023/T2,abr
+13-Apr-23,2023,2,T2,4,abril,abr/2023,15,13,5,quinta-feira,qui,Dia útil,202304,2023/T2,abr
+20-Apr-23,2023,2,T2,4,abril,abr/2023,16,20,5,quinta-feira,qui,Dia útil,202304,2023/T2,abr
+27-Apr-23,2023,2,T2,4,abril,abr/2023,17,27,5,quinta-feira,qui,Dia útil,202304,2023/T2,abr
+4-May-23,2023,2,T2,5,maio,mai/2023,18,4,5,quinta-feira,qui,Dia útil,202305,2023/T2,mai
+11-May-23,2023,2,T2,5,maio,mai/2023,19,11,5,quinta-feira,qui,Dia útil,202305,2023/T2,mai
+18-May-23,2023,2,T2,5,maio,mai/2023,20,18,5,quinta-feira,qui,Dia útil,202305,2023/T2,mai
+25-May-23,2023,2,T2,5,maio,mai/2023,21,25,5,quinta-feira,qui,Dia útil,202305,2023/T2,mai
+1-Jun-23,2023,2,T2,6,junho,jun/2023,22,1,5,quinta-feira,qui,Dia útil,202306,2023/T2,jun
+8-Jun-23,2023,2,T2,6,junho,jun/2023,23,8,5,quinta-feira,qui,Dia útil,202306,2023/T2,jun
+15-Jun-23,2023,2,T2,6,junho,jun/2023,24,15,5,quinta-feira,qui,Dia útil,202306,2023/T2,jun
+22-Jun-23,2023,2,T2,6,junho,jun/2023,25,22,5,quinta-feira,qui,Dia útil,202306,2023/T2,jun
+29-Jun-23,2023,2,T2,6,junho,jun/2023,26,29,5,quinta-feira,qui,Dia útil,202306,2023/T2,jun
+6-Jul-23,2023,3,T3,7,julho,jul/2023,27,6,5,quinta-feira,qui,Dia útil,202307,2023/T3,jul
+13-Jul-23,2023,3,T3,7,julho,jul/2023,28,13,5,quinta-feira,qui,Dia útil,202307,2023/T3,jul
+20-Jul-23,2023,3,T3,7,julho,jul/2023,29,20,5,quinta-feira,qui,Dia útil,202307,2023/T3,jul
+27-Jul-23,2023,3,T3,7,julho,jul/2023,30,27,5,quinta-feira,qui,Dia útil,202307,2023/T3,jul
+3-Aug-23,2023,3,T3,8,agosto,ago/2023,31,3,5,quinta-feira,qui,Dia útil,202308,2023/T3,ago
+10-Aug-23,2023,3,T3,8,agosto,ago/2023,32,10,5,quinta-feira,qui,Dia útil,202308,2023/T3,ago
+17-Aug-23,2023,3,T3,8,agosto,ago/2023,33,17,5,quinta-feira,qui,Dia útil,202308,2023/T3,ago
+24-Aug-23,2023,3,T3,8,agosto,ago/2023,34,24,5,quinta-feira,qui,Dia útil,202308,2023/T3,ago
+31-Aug-23,2023,3,T3,8,agosto,ago/2023,35,31,5,quinta-feira,qui,Dia útil,202308,2023/T3,ago
+7-Sep-23,2023,3,T3,9,setembro,set/2023,36,7,5,quinta-feira,qui,Dia útil,202309,2023/T3,set
+14-Sep-23,2023,3,T3,9,setembro,set/2023,37,14,5,quinta-feira,qui,Dia útil,202309,2023/T3,set
+21-Sep-23,2023,3,T3,9,setembro,set/2023,38,21,5,quinta-feira,qui,Dia útil,202309,2023/T3,set
+28-Sep-23,2023,3,T3,9,setembro,set/2023,39,28,5,quinta-feira,qui,Dia útil,202309,2023/T3,set
+5-Oct-23,2023,4,T4,10,outubro,out/2023,40,5,5,quinta-feira,qui,Dia útil,202310,2023/T4,out
+12-Oct-23,2023,4,T4,10,outubro,out/2023,41,12,5,quinta-feira,qui,Dia útil,202310,2023/T4,out
+19-Oct-23,2023,4,T4,10,outubro,out/2023,42,19,5,quinta-feira,qui,Dia útil,202310,2023/T4,out
+26-Oct-23,2023,4,T4,10,outubro,out/2023,43,26,5,quinta-feira,qui,Dia útil,202310,2023/T4,out
+2-Nov-23,2023,4,T4,11,novembro,nov/2023,44,2,5,quinta-feira,qui,Dia útil,202311,2023/T4,nov
+9-Nov-23,2023,4,T4,11,novembro,nov/2023,45,9,5,quinta-feira,qui,Dia útil,202311,2023/T4,nov
+16-Nov-23,2023,4,T4,11,novembro,nov/2023,46,16,5,quinta-feira,qui,Dia útil,202311,2023/T4,nov
+23-Nov-23,2023,4,T4,11,novembro,nov/2023,47,23,5,quinta-feira,qui,Dia útil,202311,2023/T4,nov
+30-Nov-23,2023,4,T4,11,novembro,nov/2023,48,30,5,quinta-feira,qui,Dia útil,202311,2023/T4,nov
+7-Dec-23,2023,4,T4,12,dezembro,dez/2023,49,7,5,quinta-feira,qui,Dia útil,202312,2023/T4,dez
+14-Dec-23,2023,4,T4,12,dezembro,dez/2023,50,14,5,quinta-feira,qui,Dia útil,202312,2023/T4,dez
+21-Dec-23,2023,4,T4,12,dezembro,dez/2023,51,21,5,quinta-feira,qui,Dia útil,202312,2023/T4,dez
+28-Dec-23,2023,4,T4,12,dezembro,dez/2023,52,28,5,quinta-feira,qui,Dia útil,202312,2023/T4,dez
+7-Jan-22,2022,1,T1,1,janeiro,jan/2022,2,7,6,sexta-feira,sex,Dia útil,202201,2022/T1,jan
+14-Jan-22,2022,1,T1,1,janeiro,jan/2022,3,14,6,sexta-feira,sex,Dia útil,202201,2022/T1,jan
+21-Jan-22,2022,1,T1,1,janeiro,jan/2022,4,21,6,sexta-feira,sex,Dia útil,202201,2022/T1,jan
+28-Jan-22,2022,1,T1,1,janeiro,jan/2022,5,28,6,sexta-feira,sex,Dia útil,202201,2022/T1,jan
+4-Feb-22,2022,1,T1,2,fevereiro,fev/2022,6,4,6,sexta-feira,sex,Dia útil,202202,2022/T1,fev
+11-Feb-22,2022,1,T1,2,fevereiro,fev/2022,7,11,6,sexta-feira,sex,Dia útil,202202,2022/T1,fev
+18-Feb-22,2022,1,T1,2,fevereiro,fev/2022,8,18,6,sexta-feira,sex,Dia útil,202202,2022/T1,fev
+25-Feb-22,2022,1,T1,2,fevereiro,fev/2022,9,25,6,sexta-feira,sex,Dia útil,202202,2022/T1,fev
+4-Mar-22,2022,1,T1,3,março,mar/2022,10,4,6,sexta-feira,sex,Dia útil,202203,2022/T1,mar
+11-Mar-22,2022,1,T1,3,março,mar/2022,11,11,6,sexta-feira,sex,Dia útil,202203,2022/T1,mar
+18-Mar-22,2022,1,T1,3,março,mar/2022,12,18,6,sexta-feira,sex,Dia útil,202203,2022/T1,mar
+25-Mar-22,2022,1,T1,3,março,mar/2022,13,25,6,sexta-feira,sex,Dia útil,202203,2022/T1,mar
+1-Apr-22,2022,2,T2,4,abril,abr/2022,14,1,6,sexta-feira,sex,Dia útil,202204,2022/T2,abr
+8-Apr-22,2022,2,T2,4,abril,abr/2022,15,8,6,sexta-feira,sex,Dia útil,202204,2022/T2,abr
+15-Apr-22,2022,2,T2,4,abril,abr/2022,16,15,6,sexta-feira,sex,Dia útil,202204,2022/T2,abr
+22-Apr-22,2022,2,T2,4,abril,abr/2022,17,22,6,sexta-feira,sex,Dia útil,202204,2022/T2,abr
+29-Apr-22,2022,2,T2,4,abril,abr/2022,18,29,6,sexta-feira,sex,Dia útil,202204,2022/T2,abr
+6-May-22,2022,2,T2,5,maio,mai/2022,19,6,6,sexta-feira,sex,Dia útil,202205,2022/T2,mai
+13-May-22,2022,2,T2,5,maio,mai/2022,20,13,6,sexta-feira,sex,Dia útil,202205,2022/T2,mai
+20-May-22,2022,2,T2,5,maio,mai/2022,21,20,6,sexta-feira,sex,Dia útil,202205,2022/T2,mai
+27-May-22,2022,2,T2,5,maio,mai/2022,22,27,6,sexta-feira,sex,Dia útil,202205,2022/T2,mai
+3-Jun-22,2022,2,T2,6,junho,jun/2022,23,3,6,sexta-feira,sex,Dia útil,202206,2022/T2,jun
+10-Jun-22,2022,2,T2,6,junho,jun/2022,24,10,6,sexta-feira,sex,Dia útil,202206,2022/T2,jun
+17-Jun-22,2022,2,T2,6,junho,jun/2022,25,17,6,sexta-feira,sex,Dia útil,202206,2022/T2,jun
+24-Jun-22,2022,2,T2,6,junho,jun/2022,26,24,6,sexta-feira,sex,Dia útil,202206,2022/T2,jun
+1-Jul-22,2022,3,T3,7,julho,jul/2022,27,1,6,sexta-feira,sex,Dia útil,202207,2022/T3,jul
+8-Jul-22,2022,3,T3,7,julho,jul/2022,28,8,6,sexta-feira,sex,Dia útil,202207,2022/T3,jul
+15-Jul-22,2022,3,T3,7,julho,jul/2022,29,15,6,sexta-feira,sex,Dia útil,202207,2022/T3,jul
+22-Jul-22,2022,3,T3,7,julho,jul/2022,30,22,6,sexta-feira,sex,Dia útil,202207,2022/T3,jul
+29-Jul-22,2022,3,T3,7,julho,jul/2022,31,29,6,sexta-feira,sex,Dia útil,202207,2022/T3,jul
+5-Aug-22,2022,3,T3,8,agosto,ago/2022,32,5,6,sexta-feira,sex,Dia útil,202208,2022/T3,ago
+12-Aug-22,2022,3,T3,8,agosto,ago/2022,33,12,6,sexta-feira,sex,Dia útil,202208,2022/T3,ago
+19-Aug-22,2022,3,T3,8,agosto,ago/2022,34,19,6,sexta-feira,sex,Dia útil,202208,2022/T3,ago
+26-Aug-22,2022,3,T3,8,agosto,ago/2022,35,26,6,sexta-feira,sex,Dia útil,202208,2022/T3,ago
+2-Sep-22,2022,3,T3,9,setembro,set/2022,36,2,6,sexta-feira,sex,Dia útil,202209,2022/T3,set
+9-Sep-22,2022,3,T3,9,setembro,set/2022,37,9,6,sexta-feira,sex,Dia útil,202209,2022/T3,set
+16-Sep-22,2022,3,T3,9,setembro,set/2022,38,16,6,sexta-feira,sex,Dia útil,202209,2022/T3,set
+23-Sep-22,2022,3,T3,9,setembro,set/2022,39,23,6,sexta-feira,sex,Dia útil,202209,2022/T3,set
+30-Sep-22,2022,3,T3,9,setembro,set/2022,40,30,6,sexta-feira,sex,Dia útil,202209,2022/T3,set
+7-Oct-22,2022,4,T4,10,outubro,out/2022,41,7,6,sexta-feira,sex,Dia útil,202210,2022/T4,out
+14-Oct-22,2022,4,T4,10,outubro,out/2022,42,14,6,sexta-feira,sex,Dia útil,202210,2022/T4,out
+21-Oct-22,2022,4,T4,10,outubro,out/2022,43,21,6,sexta-feira,sex,Dia útil,202210,2022/T4,out
+28-Oct-22,2022,4,T4,10,outubro,out/2022,44,28,6,sexta-feira,sex,Dia útil,202210,2022/T4,out
+4-Nov-22,2022,4,T4,11,novembro,nov/2022,45,4,6,sexta-feira,sex,Dia útil,202211,2022/T4,nov
+11-Nov-22,2022,4,T4,11,novembro,nov/2022,46,11,6,sexta-feira,sex,Dia útil,202211,2022/T4,nov
+18-Nov-22,2022,4,T4,11,novembro,nov/2022,47,18,6,sexta-feira,sex,Dia útil,202211,2022/T4,nov
+25-Nov-22,2022,4,T4,11,novembro,nov/2022,48,25,6,sexta-feira,sex,Dia útil,202211,2022/T4,nov
+2-Dec-22,2022,4,T4,12,dezembro,dez/2022,49,2,6,sexta-feira,sex,Dia útil,202212,2022/T4,dez
+9-Dec-22,2022,4,T4,12,dezembro,dez/2022,50,9,6,sexta-feira,sex,Dia útil,202212,2022/T4,dez
+16-Dec-22,2022,4,T4,12,dezembro,dez/2022,51,16,6,sexta-feira,sex,Dia útil,202212,2022/T4,dez
+23-Dec-22,2022,4,T4,12,dezembro,dez/2022,52,23,6,sexta-feira,sex,Dia útil,202212,2022/T4,dez
+30-Dec-22,2022,4,T4,12,dezembro,dez/2022,53,30,6,sexta-feira,sex,Dia útil,202212,2022/T4,dez
+6-Jan-23,2023,1,T1,1,janeiro,jan/2023,1,6,6,sexta-feira,sex,Dia útil,202301,2023/T1,jan
+13-Jan-23,2023,1,T1,1,janeiro,jan/2023,2,13,6,sexta-feira,sex,Dia útil,202301,2023/T1,jan
+20-Jan-23,2023,1,T1,1,janeiro,jan/2023,3,20,6,sexta-feira,sex,Dia útil,202301,2023/T1,jan
+27-Jan-23,2023,1,T1,1,janeiro,jan/2023,4,27,6,sexta-feira,sex,Dia útil,202301,2023/T1,jan
+3-Feb-23,2023,1,T1,2,fevereiro,fev/2023,5,3,6,sexta-feira,sex,Dia útil,202302,2023/T1,fev
+10-Feb-23,2023,1,T1,2,fevereiro,fev/2023,6,10,6,sexta-feira,sex,Dia útil,202302,2023/T1,fev
+17-Feb-23,2023,1,T1,2,fevereiro,fev/2023,7,17,6,sexta-feira,sex,Dia útil,202302,2023/T1,fev
+24-Feb-23,2023,1,T1,2,fevereiro,fev/2023,8,24,6,sexta-feira,sex,Dia útil,202302,2023/T1,fev
+3-Mar-23,2023,1,T1,3,março,mar/2023,9,3,6,sexta-feira,sex,Dia útil,202303,2023/T1,mar
+10-Mar-23,2023,1,T1,3,março,mar/2023,10,10,6,sexta-feira,sex,Dia útil,202303,2023/T1,mar
+17-Mar-23,2023,1,T1,3,março,mar/2023,11,17,6,sexta-feira,sex,Dia útil,202303,2023/T1,mar
+24-Mar-23,2023,1,T1,3,março,mar/2023,12,24,6,sexta-feira,sex,Dia útil,202303,2023/T1,mar
+31-Mar-23,2023,1,T1,3,março,mar/2023,13,31,6,sexta-feira,sex,Dia útil,202303,2023/T1,mar
+7-Apr-23,2023,2,T2,4,abril,abr/2023,14,7,6,sexta-feira,sex,Dia útil,202304,2023/T2,abr
+14-Apr-23,2023,2,T2,4,abril,abr/2023,15,14,6,sexta-feira,sex,Dia útil,202304,2023/T2,abr
+21-Apr-23,2023,2,T2,4,abril,abr/2023,16,21,6,sexta-feira,sex,Dia útil,202304,2023/T2,abr
+28-Apr-23,2023,2,T2,4,abril,abr/2023,17,28,6,sexta-feira,sex,Dia útil,202304,2023/T2,abr
+5-May-23,2023,2,T2,5,maio,mai/2023,18,5,6,sexta-feira,sex,Dia útil,202305,2023/T2,mai
+12-May-23,2023,2,T2,5,maio,mai/2023,19,12,6,sexta-feira,sex,Dia útil,202305,2023/T2,mai
+19-May-23,2023,2,T2,5,maio,mai/2023,20,19,6,sexta-feira,sex,Dia útil,202305,2023/T2,mai
+26-May-23,2023,2,T2,5,maio,mai/2023,21,26,6,sexta-feira,sex,Dia útil,202305,2023/T2,mai
+2-Jun-23,2023,2,T2,6,junho,jun/2023,22,2,6,sexta-feira,sex,Dia útil,202306,2023/T2,jun
+9-Jun-23,2023,2,T2,6,junho,jun/2023,23,9,6,sexta-feira,sex,Dia útil,202306,2023/T2,jun
+16-Jun-23,2023,2,T2,6,junho,jun/2023,24,16,6,sexta-feira,sex,Dia útil,202306,2023/T2,jun
+23-Jun-23,2023,2,T2,6,junho,jun/2023,25,23,6,sexta-feira,sex,Dia útil,202306,2023/T2,jun
+30-Jun-23,2023,2,T2,6,junho,jun/2023,26,30,6,sexta-feira,sex,Dia útil,202306,2023/T2,jun
+7-Jul-23,2023,3,T3,7,julho,jul/2023,27,7,6,sexta-feira,sex,Dia útil,202307,2023/T3,jul
+14-Jul-23,2023,3,T3,7,julho,jul/2023,28,14,6,sexta-feira,sex,Dia útil,202307,2023/T3,jul
+21-Jul-23,2023,3,T3,7,julho,jul/2023,29,21,6,sexta-feira,sex,Dia útil,202307,2023/T3,jul
+28-Jul-23,2023,3,T3,7,julho,jul/2023,30,28,6,sexta-feira,sex,Dia útil,202307,2023/T3,jul
+4-Aug-23,2023,3,T3,8,agosto,ago/2023,31,4,6,sexta-feira,sex,Dia útil,202308,2023/T3,ago
+11-Aug-23,2023,3,T3,8,agosto,ago/2023,32,11,6,sexta-feira,sex,Dia útil,202308,2023/T3,ago
+18-Aug-23,2023,3,T3,8,agosto,ago/2023,33,18,6,sexta-feira,sex,Dia útil,202308,2023/T3,ago
+25-Aug-23,2023,3,T3,8,agosto,ago/2023,34,25,6,sexta-feira,sex,Dia útil,202308,2023/T3,ago
+1-Sep-23,2023,3,T3,9,setembro,set/2023,35,1,6,sexta-feira,sex,Dia útil,202309,2023/T3,set
+8-Sep-23,2023,3,T3,9,setembro,set/2023,36,8,6,sexta-feira,sex,Dia útil,202309,2023/T3,set
+15-Sep-23,2023,3,T3,9,setembro,set/2023,37,15,6,sexta-feira,sex,Dia útil,202309,2023/T3,set
+22-Sep-23,2023,3,T3,9,setembro,set/2023,38,22,6,sexta-feira,sex,Dia útil,202309,2023/T3,set
+29-Sep-23,2023,3,T3,9,setembro,set/2023,39,29,6,sexta-feira,sex,Dia útil,202309,2023/T3,set
+6-Oct-23,2023,4,T4,10,outubro,out/2023,40,6,6,sexta-feira,sex,Dia útil,202310,2023/T4,out
+13-Oct-23,2023,4,T4,10,outubro,out/2023,41,13,6,sexta-feira,sex,Dia útil,202310,2023/T4,out
+20-Oct-23,2023,4,T4,10,outubro,out/2023,42,20,6,sexta-feira,sex,Dia útil,202310,2023/T4,out
+27-Oct-23,2023,4,T4,10,outubro,out/2023,43,27,6,sexta-feira,sex,Dia útil,202310,2023/T4,out
+3-Nov-23,2023,4,T4,11,novembro,nov/2023,44,3,6,sexta-feira,sex,Dia útil,202311,2023/T4,nov
+10-Nov-23,2023,4,T4,11,novembro,nov/2023,45,10,6,sexta-feira,sex,Dia útil,202311,2023/T4,nov
+17-Nov-23,2023,4,T4,11,novembro,nov/2023,46,17,6,sexta-feira,sex,Dia útil,202311,2023/T4,nov
+24-Nov-23,2023,4,T4,11,novembro,nov/2023,47,24,6,sexta-feira,sex,Dia útil,202311,2023/T4,nov
+1-Dec-23,2023,4,T4,12,dezembro,dez/2023,48,1,6,sexta-feira,sex,Dia útil,202312,2023/T4,dez
+8-Dec-23,2023,4,T4,12,dezembro,dez/2023,49,8,6,sexta-feira,sex,Dia útil,202312,2023/T4,dez
+15-Dec-23,2023,4,T4,12,dezembro,dez/2023,50,15,6,sexta-feira,sex,Dia útil,202312,2023/T4,dez
+22-Dec-23,2023,4,T4,12,dezembro,dez/2023,51,22,6,sexta-feira,sex,Dia útil,202312,2023/T4,dez
+29-Dec-23,2023,4,T4,12,dezembro,dez/2023,52,29,6,sexta-feira,sex,Dia útil,202312,2023/T4,dez
+2-Jan-22,2022,1,T1,1,janeiro,jan/2022,2,2,1,domingo,dom,Final de Semana,202201,2022/T1,jan
+9-Jan-22,2022,1,T1,1,janeiro,jan/2022,3,9,1,domingo,dom,Final de Semana,202201,2022/T1,jan
+16-Jan-22,2022,1,T1,1,janeiro,jan/2022,4,16,1,domingo,dom,Final de Semana,202201,2022/T1,jan
+23-Jan-22,2022,1,T1,1,janeiro,jan/2022,5,23,1,domingo,dom,Final de Semana,202201,2022/T1,jan
+30-Jan-22,2022,1,T1,1,janeiro,jan/2022,6,30,1,domingo,dom,Final de Semana,202201,2022/T1,jan
+6-Feb-22,2022,1,T1,2,fevereiro,fev/2022,7,6,1,domingo,dom,Final de Semana,202202,2022/T1,fev
+13-Feb-22,2022,1,T1,2,fevereiro,fev/2022,8,13,1,domingo,dom,Final de Semana,202202,2022/T1,fev
+20-Feb-22,2022,1,T1,2,fevereiro,fev/2022,9,20,1,domingo,dom,Final de Semana,202202,2022/T1,fev
+27-Feb-22,2022,1,T1,2,fevereiro,fev/2022,10,27,1,domingo,dom,Final de Semana,202202,2022/T1,fev
+6-Mar-22,2022,1,T1,3,março,mar/2022,11,6,1,domingo,dom,Final de Semana,202203,2022/T1,mar
+13-Mar-22,2022,1,T1,3,março,mar/2022,12,13,1,domingo,dom,Final de Semana,202203,2022/T1,mar
+20-Mar-22,2022,1,T1,3,março,mar/2022,13,20,1,domingo,dom,Final de Semana,202203,2022/T1,mar
+27-Mar-22,2022,1,T1,3,março,mar/2022,14,27,1,domingo,dom,Final de Semana,202203,2022/T1,mar
+3-Apr-22,2022,2,T2,4,abril,abr/2022,15,3,1,domingo,dom,Final de Semana,202204,2022/T2,abr
+10-Apr-22,2022,2,T2,4,abril,abr/2022,16,10,1,domingo,dom,Final de Semana,202204,2022/T2,abr
+17-Apr-22,2022,2,T2,4,abril,abr/2022,17,17,1,domingo,dom,Final de Semana,202204,2022/T2,abr
+24-Apr-22,2022,2,T2,4,abril,abr/2022,18,24,1,domingo,dom,Final de Semana,202204,2022/T2,abr
+1-May-22,2022,2,T2,5,maio,mai/2022,19,1,1,domingo,dom,Final de Semana,202205,2022/T2,mai
+8-May-22,2022,2,T2,5,maio,mai/2022,20,8,1,domingo,dom,Final de Semana,202205,2022/T2,mai
+15-May-22,2022,2,T2,5,maio,mai/2022,21,15,1,domingo,dom,Final de Semana,202205,2022/T2,mai
+22-May-22,2022,2,T2,5,maio,mai/2022,22,22,1,domingo,dom,Final de Semana,202205,2022/T2,mai
+29-May-22,2022,2,T2,5,maio,mai/2022,23,29,1,domingo,dom,Final de Semana,202205,2022/T2,mai
+5-Jun-22,2022,2,T2,6,junho,jun/2022,24,5,1,domingo,dom,Final de Semana,202206,2022/T2,jun
+12-Jun-22,2022,2,T2,6,junho,jun/2022,25,12,1,domingo,dom,Final de Semana,202206,2022/T2,jun
+19-Jun-22,2022,2,T2,6,junho,jun/2022,26,19,1,domingo,dom,Final de Semana,202206,2022/T2,jun
+26-Jun-22,2022,2,T2,6,junho,jun/2022,27,26,1,domingo,dom,Final de Semana,202206,2022/T2,jun
+3-Jul-22,2022,3,T3,7,julho,jul/2022,28,3,1,domingo,dom,Final de Semana,202207,2022/T3,jul
+10-Jul-22,2022,3,T3,7,julho,jul/2022,29,10,1,domingo,dom,Final de Semana,202207,2022/T3,jul
+17-Jul-22,2022,3,T3,7,julho,jul/2022,30,17,1,domingo,dom,Final de Semana,202207,2022/T3,jul
+24-Jul-22,2022,3,T3,7,julho,jul/2022,31,24,1,domingo,dom,Final de Semana,202207,2022/T3,jul
+31-Jul-22,2022,3,T3,7,julho,jul/2022,32,31,1,domingo,dom,Final de Semana,202207,2022/T3,jul
+7-Aug-22,2022,3,T3,8,agosto,ago/2022,33,7,1,domingo,dom,Final de Semana,202208,2022/T3,ago
+14-Aug-22,2022,3,T3,8,agosto,ago/2022,34,14,1,domingo,dom,Final de Semana,202208,2022/T3,ago
+21-Aug-22,2022,3,T3,8,agosto,ago/2022,35,21,1,domingo,dom,Final de Semana,202208,2022/T3,ago
+28-Aug-22,2022,3,T3,8,agosto,ago/2022,36,28,1,domingo,dom,Final de Semana,202208,2022/T3,ago
+4-Sep-22,2022,3,T3,9,setembro,set/2022,37,4,1,domingo,dom,Final de Semana,202209,2022/T3,set
+11-Sep-22,2022,3,T3,9,setembro,set/2022,38,11,1,domingo,dom,Final de Semana,202209,2022/T3,set
+18-Sep-22,2022,3,T3,9,setembro,set/2022,39,18,1,domingo,dom,Final de Semana,202209,2022/T3,set
+25-Sep-22,2022,3,T3,9,setembro,set/2022,40,25,1,domingo,dom,Final de Semana,202209,2022/T3,set
+2-Oct-22,2022,4,T4,10,outubro,out/2022,41,2,1,domingo,dom,Final de Semana,202210,2022/T4,out
+9-Oct-22,2022,4,T4,10,outubro,out/2022,42,9,1,domingo,dom,Final de Semana,202210,2022/T4,out
+16-Oct-22,2022,4,T4,10,outubro,out/2022,43,16,1,domingo,dom,Final de Semana,202210,2022/T4,out
+23-Oct-22,2022,4,T4,10,outubro,out/2022,44,23,1,domingo,dom,Final de Semana,202210,2022/T4,out
+30-Oct-22,2022,4,T4,10,outubro,out/2022,45,30,1,domingo,dom,Final de Semana,202210,2022/T4,out
+6-Nov-22,2022,4,T4,11,novembro,nov/2022,46,6,1,domingo,dom,Final de Semana,202211,2022/T4,nov
+13-Nov-22,2022,4,T4,11,novembro,nov/2022,47,13,1,domingo,dom,Final de Semana,202211,2022/T4,nov
+20-Nov-22,2022,4,T4,11,novembro,nov/2022,48,20,1,domingo,dom,Final de Semana,202211,2022/T4,nov
+27-Nov-22,2022,4,T4,11,novembro,nov/2022,49,27,1,domingo,dom,Final de Semana,202211,2022/T4,nov
+4-Dec-22,2022,4,T4,12,dezembro,dez/2022,50,4,1,domingo,dom,Final de Semana,202212,2022/T4,dez
+11-Dec-22,2022,4,T4,12,dezembro,dez/2022,51,11,1,domingo,dom,Final de Semana,202212,2022/T4,dez
+18-Dec-22,2022,4,T4,12,dezembro,dez/2022,52,18,1,domingo,dom,Final de Semana,202212,2022/T4,dez
+25-Dec-22,2022,4,T4,12,dezembro,dez/2022,53,25,1,domingo,dom,Final de Semana,202212,2022/T4,dez
+1-Jan-23,2023,1,T1,1,janeiro,jan/2023,1,1,1,domingo,dom,Final de Semana,202301,2023/T1,jan
+8-Jan-23,2023,1,T1,1,janeiro,jan/2023,2,8,1,domingo,dom,Final de Semana,202301,2023/T1,jan
+15-Jan-23,2023,1,T1,1,janeiro,jan/2023,3,15,1,domingo,dom,Final de Semana,202301,2023/T1,jan
+22-Jan-23,2023,1,T1,1,janeiro,jan/2023,4,22,1,domingo,dom,Final de Semana,202301,2023/T1,jan
+29-Jan-23,2023,1,T1,1,janeiro,jan/2023,5,29,1,domingo,dom,Final de Semana,202301,2023/T1,jan
+5-Feb-23,2023,1,T1,2,fevereiro,fev/2023,6,5,1,domingo,dom,Final de Semana,202302,2023/T1,fev
+12-Feb-23,2023,1,T1,2,fevereiro,fev/2023,7,12,1,domingo,dom,Final de Semana,202302,2023/T1,fev
+19-Feb-23,2023,1,T1,2,fevereiro,fev/2023,8,19,1,domingo,dom,Final de Semana,202302,2023/T1,fev
+26-Feb-23,2023,1,T1,2,fevereiro,fev/2023,9,26,1,domingo,dom,Final de Semana,202302,2023/T1,fev
+5-Mar-23,2023,1,T1,3,março,mar/2023,10,5,1,domingo,dom,Final de Semana,202303,2023/T1,mar
+12-Mar-23,2023,1,T1,3,março,mar/2023,11,12,1,domingo,dom,Final de Semana,202303,2023/T1,mar
+19-Mar-23,2023,1,T1,3,março,mar/2023,12,19,1,domingo,dom,Final de Semana,202303,2023/T1,mar
+26-Mar-23,2023,1,T1,3,março,mar/2023,13,26,1,domingo,dom,Final de Semana,202303,2023/T1,mar
+2-Apr-23,2023,2,T2,4,abril,abr/2023,14,2,1,domingo,dom,Final de Semana,202304,2023/T2,abr
+9-Apr-23,2023,2,T2,4,abril,abr/2023,15,9,1,domingo,dom,Final de Semana,202304,2023/T2,abr
+16-Apr-23,2023,2,T2,4,abril,abr/2023,16,16,1,domingo,dom,Final de Semana,202304,2023/T2,abr
+23-Apr-23,2023,2,T2,4,abril,abr/2023,17,23,1,domingo,dom,Final de Semana,202304,2023/T2,abr
+30-Apr-23,2023,2,T2,4,abril,abr/2023,18,30,1,domingo,dom,Final de Semana,202304,2023/T2,abr
+7-May-23,2023,2,T2,5,maio,mai/2023,19,7,1,domingo,dom,Final de Semana,202305,2023/T2,mai
+14-May-23,2023,2,T2,5,maio,mai/2023,20,14,1,domingo,dom,Final de Semana,202305,2023/T2,mai
+21-May-23,2023,2,T2,5,maio,mai/2023,21,21,1,domingo,dom,Final de Semana,202305,2023/T2,mai
+28-May-23,2023,2,T2,5,maio,mai/2023,22,28,1,domingo,dom,Final de Semana,202305,2023/T2,mai
+4-Jun-23,2023,2,T2,6,junho,jun/2023,23,4,1,domingo,dom,Final de Semana,202306,2023/T2,jun
+11-Jun-23,2023,2,T2,6,junho,jun/2023,24,11,1,domingo,dom,Final de Semana,202306,2023/T2,jun
+18-Jun-23,2023,2,T2,6,junho,jun/2023,25,18,1,domingo,dom,Final de Semana,202306,2023/T2,jun
+25-Jun-23,2023,2,T2,6,junho,jun/2023,26,25,1,domingo,dom,Final de Semana,202306,2023/T2,jun
+2-Jul-23,2023,3,T3,7,julho,jul/2023,27,2,1,domingo,dom,Final de Semana,202307,2023/T3,jul
+9-Jul-23,2023,3,T3,7,julho,jul/2023,28,9,1,domingo,dom,Final de Semana,202307,2023/T3,jul
+16-Jul-23,2023,3,T3,7,julho,jul/2023,29,16,1,domingo,dom,Final de Semana,202307,2023/T3,jul
+23-Jul-23,2023,3,T3,7,julho,jul/2023,30,23,1,domingo,dom,Final de Semana,202307,2023/T3,jul
+30-Jul-23,2023,3,T3,7,julho,jul/2023,31,30,1,domingo,dom,Final de Semana,202307,2023/T3,jul
+6-Aug-23,2023,3,T3,8,agosto,ago/2023,32,6,1,domingo,dom,Final de Semana,202308,2023/T3,ago
+13-Aug-23,2023,3,T3,8,agosto,ago/2023,33,13,1,domingo,dom,Final de Semana,202308,2023/T3,ago
+20-Aug-23,2023,3,T3,8,agosto,ago/2023,34,20,1,domingo,dom,Final de Semana,202308,2023/T3,ago
+27-Aug-23,2023,3,T3,8,agosto,ago/2023,35,27,1,domingo,dom,Final de Semana,202308,2023/T3,ago
+3-Sep-23,2023,3,T3,9,setembro,set/2023,36,3,1,domingo,dom,Final de Semana,202309,2023/T3,set
+10-Sep-23,2023,3,T3,9,setembro,set/2023,37,10,1,domingo,dom,Final de Semana,202309,2023/T3,set
+17-Sep-23,2023,3,T3,9,setembro,set/2023,38,17,1,domingo,dom,Final de Semana,202309,2023/T3,set
+24-Sep-23,2023,3,T3,9,setembro,set/2023,39,24,1,domingo,dom,Final de Semana,202309,2023/T3,set
+1-Oct-23,2023,4,T4,10,outubro,out/2023,40,1,1,domingo,dom,Final de Semana,202310,2023/T4,out
+8-Oct-23,2023,4,T4,10,outubro,out/2023,41,8,1,domingo,dom,Final de Semana,202310,2023/T4,out
+15-Oct-23,2023,4,T4,10,outubro,out/2023,42,15,1,domingo,dom,Final de Semana,202310,2023/T4,out
+22-Oct-23,2023,4,T4,10,outubro,out/2023,43,22,1,domingo,dom,Final de Semana,202310,2023/T4,out
+29-Oct-23,2023,4,T4,10,outubro,out/2023,44,29,1,domingo,dom,Final de Semana,202310,2023/T4,out
+5-Nov-23,2023,4,T4,11,novembro,nov/2023,45,5,1,domingo,dom,Final de Semana,202311,2023/T4,nov
+12-Nov-23,2023,4,T4,11,novembro,nov/2023,46,12,1,domingo,dom,Final de Semana,202311,2023/T4,nov
+19-Nov-23,2023,4,T4,11,novembro,nov/2023,47,19,1,domingo,dom,Final de Semana,202311,2023/T4,nov
+26-Nov-23,2023,4,T4,11,novembro,nov/2023,48,26,1,domingo,dom,Final de Semana,202311,2023/T4,nov
+3-Dec-23,2023,4,T4,12,dezembro,dez/2023,49,3,1,domingo,dom,Final de Semana,202312,2023/T4,dez
+10-Dec-23,2023,4,T4,12,dezembro,dez/2023,50,10,1,domingo,dom,Final de Semana,202312,2023/T4,dez
+17-Dec-23,2023,4,T4,12,dezembro,dez/2023,51,17,1,domingo,dom,Final de Semana,202312,2023/T4,dez
+24-Dec-23,2023,4,T4,12,dezembro,dez/2023,52,24,1,domingo,dom,Final de Semana,202312,2023/T4,dez
+31-Dec-23,2023,4,T4,12,dezembro,dez/2023,53,31,1,domingo,dom,Final de Semana,202312,2023/T4,dez
+1-Jan-22,2022,1,T1,1,janeiro,jan/2022,1,1,7,sábado,sáb,Final de Semana,202201,2022/T1,jan
+8-Jan-22,2022,1,T1,1,janeiro,jan/2022,2,8,7,sábado,sáb,Final de Semana,202201,2022/T1,jan
+15-Jan-22,2022,1,T1,1,janeiro,jan/2022,3,15,7,sábado,sáb,Final de Semana,202201,2022/T1,jan
+22-Jan-22,2022,1,T1,1,janeiro,jan/2022,4,22,7,sábado,sáb,Final de Semana,202201,2022/T1,jan
+29-Jan-22,2022,1,T1,1,janeiro,jan/2022,5,29,7,sábado,sáb,Final de Semana,202201,2022/T1,jan
+5-Feb-22,2022,1,T1,2,fevereiro,fev/2022,6,5,7,sábado,sáb,Final de Semana,202202,2022/T1,fev
+12-Feb-22,2022,1,T1,2,fevereiro,fev/2022,7,12,7,sábado,sáb,Final de Semana,202202,2022/T1,fev
+19-Feb-22,2022,1,T1,2,fevereiro,fev/2022,8,19,7,sábado,sáb,Final de Semana,202202,2022/T1,fev
+26-Feb-22,2022,1,T1,2,fevereiro,fev/2022,9,26,7,sábado,sáb,Final de Semana,202202,2022/T1,fev
+5-Mar-22,2022,1,T1,3,março,mar/2022,10,5,7,sábado,sáb,Final de Semana,202203,2022/T1,mar
+12-Mar-22,2022,1,T1,3,março,mar/2022,11,12,7,sábado,sáb,Final de Semana,202203,2022/T1,mar
+19-Mar-22,2022,1,T1,3,março,mar/2022,12,19,7,sábado,sáb,Final de Semana,202203,2022/T1,mar
+26-Mar-22,2022,1,T1,3,março,mar/2022,13,26,7,sábado,sáb,Final de Semana,202203,2022/T1,mar
+2-Apr-22,2022,2,T2,4,abril,abr/2022,14,2,7,sábado,sáb,Final de Semana,202204,2022/T2,abr
+9-Apr-22,2022,2,T2,4,abril,abr/2022,15,9,7,sábado,sáb,Final de Semana,202204,2022/T2,abr
+16-Apr-22,2022,2,T2,4,abril,abr/2022,16,16,7,sábado,sáb,Final de Semana,202204,2022/T2,abr
+23-Apr-22,2022,2,T2,4,abril,abr/2022,17,23,7,sábado,sáb,Final de Semana,202204,2022/T2,abr
+30-Apr-22,2022,2,T2,4,abril,abr/2022,18,30,7,sábado,sáb,Final de Semana,202204,2022/T2,abr
+7-May-22,2022,2,T2,5,maio,mai/2022,19,7,7,sábado,sáb,Final de Semana,202205,2022/T2,mai
+14-May-22,2022,2,T2,5,maio,mai/2022,20,14,7,sábado,sáb,Final de Semana,202205,2022/T2,mai
+21-May-22,2022,2,T2,5,maio,mai/2022,21,21,7,sábado,sáb,Final de Semana,202205,2022/T2,mai
+28-May-22,2022,2,T2,5,maio,mai/2022,22,28,7,sábado,sáb,Final de Semana,202205,2022/T2,mai
+4-Jun-22,2022,2,T2,6,junho,jun/2022,23,4,7,sábado,sáb,Final de Semana,202206,2022/T2,jun
+11-Jun-22,2022,2,T2,6,junho,jun/2022,24,11,7,sábado,sáb,Final de Semana,202206,2022/T2,jun
+18-Jun-22,2022,2,T2,6,junho,jun/2022,25,18,7,sábado,sáb,Final de Semana,202206,2022/T2,jun
+25-Jun-22,2022,2,T2,6,junho,jun/2022,26,25,7,sábado,sáb,Final de Semana,202206,2022/T2,jun
+2-Jul-22,2022,3,T3,7,julho,jul/2022,27,2,7,sábado,sáb,Final de Semana,202207,2022/T3,jul
+9-Jul-22,2022,3,T3,7,julho,jul/2022,28,9,7,sábado,sáb,Final de Semana,202207,2022/T3,jul
+16-Jul-22,2022,3,T3,7,julho,jul/2022,29,16,7,sábado,sáb,Final de Semana,202207,2022/T3,jul
+23-Jul-22,2022,3,T3,7,julho,jul/2022,30,23,7,sábado,sáb,Final de Semana,202207,2022/T3,jul
+30-Jul-22,2022,3,T3,7,julho,jul/2022,31,30,7,sábado,sáb,Final de Semana,202207,2022/T3,jul
+6-Aug-22,2022,3,T3,8,agosto,ago/2022,32,6,7,sábado,sáb,Final de Semana,202208,2022/T3,ago
+13-Aug-22,2022,3,T3,8,agosto,ago/2022,33,13,7,sábado,sáb,Final de Semana,202208,2022/T3,ago
+20-Aug-22,2022,3,T3,8,agosto,ago/2022,34,20,7,sábado,sáb,Final de Semana,202208,2022/T3,ago
+27-Aug-22,2022,3,T3,8,agosto,ago/2022,35,27,7,sábado,sáb,Final de Semana,202208,2022/T3,ago
+3-Sep-22,2022,3,T3,9,setembro,set/2022,36,3,7,sábado,sáb,Final de Semana,202209,2022/T3,set
+10-Sep-22,2022,3,T3,9,setembro,set/2022,37,10,7,sábado,sáb,Final de Semana,202209,2022/T3,set
+17-Sep-22,2022,3,T3,9,setembro,set/2022,38,17,7,sábado,sáb,Final de Semana,202209,2022/T3,set
+24-Sep-22,2022,3,T3,9,setembro,set/2022,39,24,7,sábado,sáb,Final de Semana,202209,2022/T3,set
+1-Oct-22,2022,4,T4,10,outubro,out/2022,40,1,7,sábado,sáb,Final de Semana,202210,2022/T4,out
+8-Oct-22,2022,4,T4,10,outubro,out/2022,41,8,7,sábado,sáb,Final de Semana,202210,2022/T4,out
+15-Oct-22,2022,4,T4,10,outubro,out/2022,42,15,7,sábado,sáb,Final de Semana,202210,2022/T4,out
+22-Oct-22,2022,4,T4,10,outubro,out/2022,43,22,7,sábado,sáb,Final de Semana,202210,2022/T4,out
+29-Oct-22,2022,4,T4,10,outubro,out/2022,44,29,7,sábado,sáb,Final de Semana,202210,2022/T4,out
+5-Nov-22,2022,4,T4,11,novembro,nov/2022,45,5,7,sábado,sáb,Final de Semana,202211,2022/T4,nov
+12-Nov-22,2022,4,T4,11,novembro,nov/2022,46,12,7,sábado,sáb,Final de Semana,202211,2022/T4,nov
+19-Nov-22,2022,4,T4,11,novembro,nov/2022,47,19,7,sábado,sáb,Final de Semana,202211,2022/T4,nov
+26-Nov-22,2022,4,T4,11,novembro,nov/2022,48,26,7,sábado,sáb,Final de Semana,202211,2022/T4,nov
+3-Dec-22,2022,4,T4,12,dezembro,dez/2022,49,3,7,sábado,sáb,Final de Semana,202212,2022/T4,dez
+10-Dec-22,2022,4,T4,12,dezembro,dez/2022,50,10,7,sábado,sáb,Final de Semana,202212,2022/T4,dez
+17-Dec-22,2022,4,T4,12,dezembro,dez/2022,51,17,7,sábado,sáb,Final de Semana,202212,2022/T4,dez
+24-Dec-22,2022,4,T4,12,dezembro,dez/2022,52,24,7,sábado,sáb,Final de Semana,202212,2022/T4,dez
+31-Dec-22,2022,4,T4,12,dezembro,dez/2022,53,31,7,sábado,sáb,Final de Semana,202212,2022/T4,dez
+7-Jan-23,2023,1,T1,1,janeiro,jan/2023,1,7,7,sábado,sáb,Final de Semana,202301,2023/T1,jan
+14-Jan-23,2023,1,T1,1,janeiro,jan/2023,2,14,7,sábado,sáb,Final de Semana,202301,2023/T1,jan
+21-Jan-23,2023,1,T1,1,janeiro,jan/2023,3,21,7,sábado,sáb,Final de Semana,202301,2023/T1,jan
+28-Jan-23,2023,1,T1,1,janeiro,jan/2023,4,28,7,sábado,sáb,Final de Semana,202301,2023/T1,jan
+4-Feb-23,2023,1,T1,2,fevereiro,fev/2023,5,4,7,sábado,sáb,Final de Semana,202302,2023/T1,fev
+11-Feb-23,2023,1,T1,2,fevereiro,fev/2023,6,11,7,sábado,sáb,Final de Semana,202302,2023/T1,fev
+18-Feb-23,2023,1,T1,2,fevereiro,fev/2023,7,18,7,sábado,sáb,Final de Semana,202302,2023/T1,fev
+25-Feb-23,2023,1,T1,2,fevereiro,fev/2023,8,25,7,sábado,sáb,Final de Semana,202302,2023/T1,fev
+4-Mar-23,2023,1,T1,3,março,mar/2023,9,4,7,sábado,sáb,Final de Semana,202303,2023/T1,mar
+11-Mar-23,2023,1,T1,3,março,mar/2023,10,11,7,sábado,sáb,Final de Semana,202303,2023/T1,mar
+18-Mar-23,2023,1,T1,3,março,mar/2023,11,18,7,sábado,sáb,Final de Semana,202303,2023/T1,mar
+25-Mar-23,2023,1,T1,3,março,mar/2023,12,25,7,sábado,sáb,Final de Semana,202303,2023/T1,mar
+1-Apr-23,2023,2,T2,4,abril,abr/2023,13,1,7,sábado,sáb,Final de Semana,202304,2023/T2,abr
+8-Apr-23,2023,2,T2,4,abril,abr/2023,14,8,7,sábado,sáb,Final de Semana,202304,2023/T2,abr
+15-Apr-23,2023,2,T2,4,abril,abr/2023,15,15,7,sábado,sáb,Final de Semana,202304,2023/T2,abr
+22-Apr-23,2023,2,T2,4,abril,abr/2023,16,22,7,sábado,sáb,Final de Semana,202304,2023/T2,abr
+29-Apr-23,2023,2,T2,4,abril,abr/2023,17,29,7,sábado,sáb,Final de Semana,202304,2023/T2,abr
+6-May-23,2023,2,T2,5,maio,mai/2023,18,6,7,sábado,sáb,Final de Semana,202305,2023/T2,mai
+13-May-23,2023,2,T2,5,maio,mai/2023,19,13,7,sábado,sáb,Final de Semana,202305,2023/T2,mai
+20-May-23,2023,2,T2,5,maio,mai/2023,20,20,7,sábado,sáb,Final de Semana,202305,2023/T2,mai
+27-May-23,2023,2,T2,5,maio,mai/2023,21,27,7,sábado,sáb,Final de Semana,202305,2023/T2,mai
+3-Jun-23,2023,2,T2,6,junho,jun/2023,22,3,7,sábado,sáb,Final de Semana,202306,2023/T2,jun
+10-Jun-23,2023,2,T2,6,junho,jun/2023,23,10,7,sábado,sáb,Final de Semana,202306,2023/T2,jun
+17-Jun-23,2023,2,T2,6,junho,jun/2023,24,17,7,sábado,sáb,Final de Semana,202306,2023/T2,jun
+24-Jun-23,2023,2,T2,6,junho,jun/2023,25,24,7,sábado,sáb,Final de Semana,202306,2023/T2,jun
+1-Jul-23,2023,3,T3,7,julho,jul/2023,26,1,7,sábado,sáb,Final de Semana,202307,2023/T3,jul
+8-Jul-23,2023,3,T3,7,julho,jul/2023,27,8,7,sábado,sáb,Final de Semana,202307,2023/T3,jul
+15-Jul-23,2023,3,T3,7,julho,jul/2023,28,15,7,sábado,sáb,Final de Semana,202307,2023/T3,jul
+22-Jul-23,2023,3,T3,7,julho,jul/2023,29,22,7,sábado,sáb,Final de Semana,202307,2023/T3,jul
+29-Jul-23,2023,3,T3,7,julho,jul/2023,30,29,7,sábado,sáb,Final de Semana,202307,2023/T3,jul
+5-Aug-23,2023,3,T3,8,agosto,ago/2023,31,5,7,sábado,sáb,Final de Semana,202308,2023/T3,ago
+12-Aug-23,2023,3,T3,8,agosto,ago/2023,32,12,7,sábado,sáb,Final de Semana,202308,2023/T3,ago
+19-Aug-23,2023,3,T3,8,agosto,ago/2023,33,19,7,sábado,sáb,Final de Semana,202308,2023/T3,ago
+26-Aug-23,2023,3,T3,8,agosto,ago/2023,34,26,7,sábado,sáb,Final de Semana,202308,2023/T3,ago
+2-Sep-23,2023,3,T3,9,setembro,set/2023,35,2,7,sábado,sáb,Final de Semana,202309,2023/T3,set
+9-Sep-23,2023,3,T3,9,setembro,set/2023,36,9,7,sábado,sáb,Final de Semana,202309,2023/T3,set
+16-Sep-23,2023,3,T3,9,setembro,set/2023,37,16,7,sábado,sáb,Final de Semana,202309,2023/T3,set
+23-Sep-23,2023,3,T3,9,setembro,set/2023,38,23,7,sábado,sáb,Final de Semana,202309,2023/T3,set
+30-Sep-23,2023,3,T3,9,setembro,set/2023,39,30,7,sábado,sáb,Final de Semana,202309,2023/T3,set
+7-Oct-23,2023,4,T4,10,outubro,out/2023,40,7,7,sábado,sáb,Final de Semana,202310,2023/T4,out
+14-Oct-23,2023,4,T4,10,outubro,out/2023,41,14,7,sábado,sáb,Final de Semana,202310,2023/T4,out
+21-Oct-23,2023,4,T4,10,outubro,out/2023,42,21,7,sábado,sáb,Final de Semana,202310,2023/T4,out
+28-Oct-23,2023,4,T4,10,outubro,out/2023,43,28,7,sábado,sáb,Final de Semana,202310,2023/T4,out
+4-Nov-23,2023,4,T4,11,novembro,nov/2023,44,4,7,sábado,sáb,Final de Semana,202311,2023/T4,nov
+11-Nov-23,2023,4,T4,11,novembro,nov/2023,45,11,7,sábado,sáb,Final de Semana,202311,2023/T4,nov
+18-Nov-23,2023,4,T4,11,novembro,nov/2023,46,18,7,sábado,sáb,Final de Semana,202311,2023/T4,nov
+25-Nov-23,2023,4,T4,11,novembro,nov/2023,47,25,7,sábado,sáb,Final de Semana,202311,2023/T4,nov
+2-Dec-23,2023,4,T4,12,dezembro,dez/2023,48,2,7,sábado,sáb,Final de Semana,202312,2023/T4,dez
+9-Dec-23,2023,4,T4,12,dezembro,dez/2023,49,9,7,sábado,sáb,Final de Semana,202312,2023/T4,dez
+16-Dec-23,2023,4,T4,12,dezembro,dez/2023,50,16,7,sábado,sáb,Final de Semana,202312,2023/T4,dez
+23-Dec-23,2023,4,T4,12,dezembro,dez/2023,51,23,7,sábado,sáb,Final de Semana,202312,2023/T4,dez
+30-Dec-23,2023,4,T4,12,dezembro,dez/2023,52,30,7,sábado,sáb,Final de Semana,202312,2023/T4,dez
