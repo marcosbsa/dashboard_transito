@@ -141,7 +141,10 @@ https://app.powerbi.com/view?r=eyJrIjoiMWY5OWVkODMtMGEzMS00NDkyLWEyM2UtNTVhOGQ4M
 
 ## 🔗 Fonte dos Dados
 
-Os dados utilizados são públicos e disponibilizados pela **Polícia Rodoviária Federal**:  
+Os dados utilizados são públicos e disponibilizados pela **Polícia Rodoviária Federal** e pela plataforma de Cursos Xperiun
 📎 [dados.prf.gov.br](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
+
+Os dados.csv foram tratados para análise no Power Query antes da modelagem e análise.
+
 
 
