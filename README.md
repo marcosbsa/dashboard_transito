@@ -8,11 +8,11 @@
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge)
 
 ---
-<img width="1410" height="791" alt="dashboard_transito_01" src="https://github.com/user-attachments/assets/259f5e80-6fdd-476f-bc01-f1df17a48608" />
-<img width="1411" height="792" alt="dashboard_transito_02" src="https://github.com/user-attachments/assets/5b4989f6-3ad5-447f-a9a9-246fba0f5f0b" />
-<img width="1411" height="793" alt="dashboard_transito_03" src="https://github.com/user-attachments/assets/84aa4f61-0783-42d9-9c5a-af0448a269f1" />
+<img width="1411" height="792" alt="dashboard_transito_1" src="https://github.com/user-attachments/assets/9695fb72-c1de-4fca-8a21-3b0517da8909" />
+<img width="1410" height="792" alt="dashboard_transito_2" src="https://github.com/user-attachments/assets/7d3be98c-ad7e-4180-bd06-9ef11faf97c9" />
+<img width="1411" height="794" alt="dashboard_transito_3" src="https://github.com/user-attachments/assets/290832e0-4f95-4fe9-9951-388bb9cdf3c3" />
 
----
+
 
 ## 📌 Sobre o Projeto
 
