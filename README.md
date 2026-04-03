@@ -119,6 +119,9 @@ https://app.powerbi.com/view?r=eyJrIjoiMWY5OWVkODMtMGEzMS00NDkyLWEyM2UtNTVhOGQ4M
 > **Plena noite** concentra menos acidentes que o dia, mas mata mais — sinalizando maior gravidade noturna.
 > **O **final de semana (sexta a domingo)** concentra as maiores taxas de mortalidade.
 
+> Acidentes ocorrem principalmente nas grandes rodovias longitudinais (BR-101 e BR-116), nos finais de semana, no período de pico da tarde,
+> e têm como causa predominante a falta de atenção do condutor. Estados do Sul e Sudeste concentram a maior parte dos acidentes.
+
 ---
 
 ## 🧠 Que Tipo de Decisão o Dashboard Ajuda a Tomar?
